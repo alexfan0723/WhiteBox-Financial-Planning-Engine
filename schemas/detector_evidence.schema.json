@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://whitebox.example/schemas/detector_evidence.schema.json",
+  "title": "Detector Evidence",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "detector_id", "evidence_class", "status"],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "0.1.0"
+    },
+    "detector_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "hypothesis": {
+      "type": "string"
+    },
+    "evidence_class": {
+      "type": "string",
+      "enum": ["hypothesis", "research", "replicated", "counterexample_found", "boundary_reviewed", "promoted"]
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "active", "blocked", "accepted", "rejected"]
+    },
+    "sample_summary": {
+      "type": "object",
+      "additionalProperties": true
+    },
+    "boundary_notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "expert_review_required": {
+      "type": "boolean"
+    }
+  }
+}

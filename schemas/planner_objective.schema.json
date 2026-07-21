@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://whitebox.example/schemas/planner_objective.schema.json",
+  "title": "Planner Objective",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "objective_id", "intent", "status"],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "0.1.0"
+    },
+    "objective_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "intent": {
+      "type": "string",
+      "minLength": 1
+    },
+    "target": {
+      "type": "object",
+      "additionalProperties": true
+    },
+    "constraints": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": true
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "needs_clarification", "ready_for_simulation", "blocked"]
+    },
+    "market_context": {
+      "type": "string",
+      "examples": ["mainland_china"]
+    }
+  }
+}
