@@ -1,13 +1,13 @@
 # Contributing
 
-WhiteBox welcomes careful contributions to public documentation, schemas, examples, test conventions, and research scaffolding.
+WhiteBox currently accepts only careful contributions to public-facing documentation, market notes, theory notes, and fictional examples.
 
 ## Contribution Principles
 
 - Keep customer data out of the repository.
-- Keep implementation details public-safe.
-- Separate formal model output from research or preview output.
-- Prefer structured schemas and deterministic tests over informal examples.
+- Do not submit private implementation details.
+- Do not submit deployment bindings, credentials, proprietary prompts, or internal evidence.
+- Separate research language from financial advice.
 - Document assumptions, markets, units, and evidence boundaries.
 
 ## Public-Safe Language
@@ -30,7 +30,7 @@ Avoid vendor-specific MVP implementation details and internal-only node names.
 - No customer data is included.
 - No private deployment or vendor binding is included.
 - No proprietary prompt text is included.
-- Schemas are versioned.
-- Examples are sanitized.
-- Formal and exploratory outputs are clearly separated.
+- No unreleased implementation code is included.
+- Examples are fictional.
+- Research and advice are clearly separated.
 - Mainland China market assumptions are stated when relevant.

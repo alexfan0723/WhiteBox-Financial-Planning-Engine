@@ -4,73 +4,55 @@ This roadmap describes the public-safe development direction for WhiteBox Financ
 
 It does not disclose private production code, customer data, deployment bindings, proprietary prompts, or unreleased model internals.
 
-## Stage 1: Public Foundation
+## Stage 1: Public Positioning
 
-Goal: establish public language, safety boundaries, and project structure.
+Goal: make the public identity of WhiteBox clear.
 
-Planned outputs:
+Focus:
 
-- README v0.2 public positioning
-- public-safe architecture notes
-- mainland China market orientation
-- theory foundation
-- detector methodology
-- contribution and security rules
+- explain WhiteBox as a mainland China-focused financial planning intelligence system
+- describe planner-led reasoning and experimental detector research without exposing implementation details
+- keep the repository lightweight and business-facing
 
 Status: in progress
 
-## Stage 2: Planner Interfaces
+## Stage 2: Theory and Mainland China Context
 
-Goal: define how financial goals and constraints become structured planning objects.
+Goal: explain the financial and market foundations behind WhiteBox.
 
-Planned outputs:
+Focus:
 
-- planner objective schema
-- typed value conventions
-- objective status lifecycle
-- clarification and blocked-state rules
-- sanitized examples
-
-Status: planned
-
-## Stage 3: Detector Evidence Lifecycle
-
-Goal: define how research signals become repeatable product evidence.
-
-Planned outputs:
-
-- detector evidence schema
-- hypothesis-to-promotion lifecycle
-- replication and counterexample review rules
-- boundary classification vocabulary
-- expert review checklist
+- household balance-sheet planning
+- lifecycle finance
+- cash-flow and liability matching
+- insurance and protection gap analysis
+- property-heavy household planning in mainland China
+- local advisor and insurance context
 
 Status: planned
 
-## Stage 4: Mainland China Scenario Examples
+## Stage 3: Planner and Experimental Detector Research
 
-Goal: publish fictional, sanitized examples that reflect local planning realities.
+Goal: describe the research direction without claiming production readiness.
 
-Planned outputs:
+Focus:
 
-- household balance-sheet examples
-- property-heavy household examples
-- insurance protection examples
-- retirement timing examples
-- liquidity stress examples
+- planner-first reasoning for goals, constraints, and scenario selection
+- experimental detector research for planning signals and boundary cases
+- cognitive-science-inspired view of expert pattern recognition
+- human expert review as part of interpretation
 
 Status: planned
 
-## Stage 5: Public Validation Tools
+## Stage 4: Selected Fictional Examples
 
-Goal: provide public-safe validation for schemas and examples.
+Goal: show how WhiteBox thinks about household planning without exposing real customer data or internal systems.
 
-Planned outputs:
+Focus:
 
-- schema validation tests
-- no-mutation audit checks
-- public-safe repository checks
-- example payload validation
+- one or more fictional household examples
+- mainland China market assumptions
+- clear separation between research illustration and financial advice
 
 Status: planned
 

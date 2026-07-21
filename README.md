@@ -1,5 +1,7 @@
 # WhiteBox Financial Planning Engine
 
+[简体中文](README.zh-CN.md)
+
 WhiteBox is a financial planning intelligence system designed for the mainland China market.
 
 It combines deterministic financial modeling, planner-led scenario reasoning, detector-based evidence discovery, and advisor-grade reporting. The system is built with input from local financial planning, insurance, household balance-sheet, and retirement-planning practitioners.
@@ -66,6 +68,13 @@ Read more:
 - [Detector Methodology](docs/detector-methodology.md)
 - [Mainland China Market Orientation](docs/mainland-china-market.md)
 - [Roadmap](ROADMAP.md)
+
+Simplified Chinese:
+
+- [理论基础](docs/theory-foundation.zh-CN.md)
+- [Detector 方法论](docs/detector-methodology.zh-CN.md)
+- [中国大陆市场定位](docs/mainland-china-market.zh-CN.md)
+- [路线图](ROADMAP.zh-CN.md)
 
 ## Roadmap
 
