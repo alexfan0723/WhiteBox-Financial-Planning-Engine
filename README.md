@@ -1,5 +1,7 @@
 # WhiteBox Financial Planning Engine
 
+![WhiteBox social cover](assets/social-cover.png)
+
 [简体中文](README.zh-CN.md)
 
 WhiteBox is a financial planning intelligence system designed for the mainland China market.

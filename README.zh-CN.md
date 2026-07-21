@@ -1,5 +1,7 @@
 # WhiteBox 金融规划引擎
 
+![WhiteBox 社交媒体封面](assets/social-cover.png)
+
 [English](README.md)
 
 WhiteBox 是一个面向中国大陆市场的金融规划智能系统。
