@@ -21,23 +21,23 @@ WhiteBox treats financial planning as a governed model problem. The system separ
 
 This separation matters because a household plan is not a single answer. It is a chain of facts, assumptions, constraints, tradeoffs, and reviewable model results.
 
-## What WhiteBox Builds
+## What WhiteBox Studies and Builds
 
-- A current financial state engine for household facts, assets, liabilities, cash flow, protection, and long-horizon planning capacity.
-- A planner that turns goals, constraints, tradeoffs, and client priorities into structured planning tasks.
-- A scenario simulation engine for controlled what-if analysis across retirement, education, property, insurance, liquidity, and family responsibility cases.
-- A detector system that searches for repeatable planning patterns, counterexamples, and boundary conditions before productizing them.
-- A report layer that turns verified model output into advisor/client-facing planning material.
+- household financial state modeling across assets, liabilities, cash flow, protection, and long-horizon planning capacity
+- planner-led reasoning that turns goals, constraints, tradeoffs, and client priorities into structured planning tasks
+- controlled scenario analysis across retirement, education, property, insurance, liquidity, and family responsibility cases
+- experimental detector research for repeatable planning patterns, counterexamples, and boundary conditions
+- advisor-grade explanation that keeps assumptions and calculation status visible
 
 ## Core Innovation
 
-WhiteBox is focused on planner and detector innovation:
+WhiteBox is focused on planner and detector innovation.
 
-- Planner-first reasoning: goals and constraints are represented as structured planning objects before simulation.
-- Detector-led research: planning patterns are not promoted from anecdotes; they pass through evidence, replication, counterexample, and boundary review.
-- Explicit uncertainty handling: exploratory, preview, research, and formal outputs are separated by design.
-- Local market adaptation: tax, insurance, housing, family responsibility, liquidity, and retirement assumptions are designed for mainland China instead of copied from overseas planning templates.
-- Human expert loop: domain experts participate in product design, evidence review, and boundary decisions.
+Planner-first reasoning means that goals and constraints should be represented as structured planning objects before scenario analysis.
+
+Detector research is currently experimental. We use "detector" to describe a research direction: finding repeatable planning signals, boundary cases, and counterexamples before turning them into product features.
+
+The detector idea is partly inspired by cognitive science's view of expertise: experts do not only apply rules; they recognize meaningful patterns, notice anomalies, and understand the boundary conditions of a judgment. WhiteBox explores how a financial planning system can assist that kind of expert pattern recognition without pretending that early research evidence is final advice.
 
 ## Market Focus
 
@@ -63,26 +63,17 @@ The system treats financial planning as a governed model problem, not a text-gen
 Read more:
 
 - [Theory Foundation](docs/theory-foundation.md)
-- [Planner and Detectors](docs/planner-and-detectors.md)
 - [Detector Methodology](docs/detector-methodology.md)
 - [Mainland China Market Orientation](docs/mainland-china-market.md)
+- [Roadmap](ROADMAP.md)
 
 ## Roadmap
 
-Near-term public work:
-
-- refine public-safe architecture and terminology
-- publish planner objective schemas
-- publish detector evidence lifecycle schemas
-- prepare sanitized mainland China household examples
-- document formal versus research output boundaries
-- add validation tests for public schemas and examples
-
-Implementation code will be published only when it is public-safe, reviewed, and separated from private production systems.
+See [ROADMAP.md](ROADMAP.md).
 
 ## Public Repository Scope
 
-This repository is a public-safe project shell. It contains external-facing architecture notes, interface schemas, example payloads, testing conventions, and contribution rules.
+This repository is a public-facing project shell. It contains external-facing positioning, theory notes, market orientation, and high-level research methodology.
 
 It intentionally does not include:
 
@@ -96,7 +87,7 @@ It intentionally does not include:
 
 ## Status
 
-Early public-safe repository draft. The first goal is to define clear public language, collaboration boundaries, and interface contracts before any production implementation is published.
+Early public-facing repository. The first goal is to define clear public language, theory foundations, and research direction before any implementation code is published.
 
 ## License
 

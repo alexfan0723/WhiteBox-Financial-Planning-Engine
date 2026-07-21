@@ -1,128 +1,52 @@
 # Detector Methodology
 
-WhiteBox detectors are designed to turn planning observations into repeatable, reviewable product evidence.
+Detector research is an experimental direction inside WhiteBox.
 
-A detector is not a prompt, a shortcut, or a one-off conclusion. It is a governed research object that identifies a planning signal, tests it against structured samples, searches for failure cases, and records the boundary where the signal does or does not hold.
+We use "detector" to describe a possible way for a financial planning system to assist expert judgment: finding repeatable planning signals, boundary cases, anomalies, and counterexamples.
 
-## 1. Detector Hypothesis
+This concept is inspired by cognitive science's understanding of expertise. Experts often do more than apply explicit rules. They recognize meaningful patterns, notice when a situation does not fit, and understand the limits of a judgment. WhiteBox explores whether parts of that expert pattern recognition can be made structured and reviewable.
 
-Every detector starts with a clear hypothesis.
+This work is not presented as a finished product capability. It is research in progress.
 
-Examples:
+## Research Questions
 
-- A household with high net worth but low liquidity may still face retirement stress.
-- A property-heavy balance sheet can mask short-term solvency weakness.
-- A conservative allocation can reduce volatility while increasing long-horizon shortfall risk.
-- An insurance premium commitment can become a cash-flow constraint even when protection need is valid.
+Detector research asks:
 
-The hypothesis must state the expected signal and the conditions under which it might appear.
+- Can a planning system identify recurring financial patterns across households?
+- Can it distinguish a robust signal from a narrow or accidental result?
+- Can it help find counterexamples before a planning idea becomes advice?
+- Can it support, rather than replace, professional judgment?
 
-## 2. Sample Design
+## Example Signal Types
 
-Detector samples should be controlled.
+Possible research signals include:
 
-The sample design should specify:
+- liquidity weakness inside high net worth households
+- property concentration risk
+- retirement timing sensitivity
+- insurance protection and premium-pressure tradeoffs
+- family responsibility stress
+- allocation choices that reduce one risk while increasing another
 
-- household archetype
-- market context
-- income and expense assumptions
-- asset structure
-- liability structure
-- planning objective
-- scenario variables
-- expected output class
+These are research examples, not financial advice.
 
-Public examples must use fictional and sanitized data only.
+## Research Discipline
 
-## 3. Evidence Generation
+Detector research should stay disciplined:
 
-Detector evidence should come from structured model execution, not narrative judgment alone.
+- start from a clear hypothesis
+- use fictional or properly sanitized examples in public materials
+- test whether the signal appears repeatedly
+- search for counterexamples
+- record boundary conditions
+- require expert interpretation before any product use
 
-Evidence should record:
+## Expert Role
 
-- input fingerprint
-- scenario identity
-- model path
-- output class
-- key metrics
-- no-mutation audit
-- failure or blocked reason
-- review status
+WhiteBox does not treat detectors as autonomous advisors.
 
-Exploratory detector output remains research evidence until promoted.
+The intended role is closer to an expert assistant: surface patterns, pressure-test assumptions, and make review questions clearer for human professionals.
 
-## 4. Replication
+## Current Status
 
-A detector signal should be replicated before it is trusted.
-
-Replication can include:
-
-- rerunning the same sample
-- using an independent execution package
-- changing seeds or market paths
-- testing adjacent household cases
-- checking whether the signal survives data-shape changes
-
-Replication is not proof of universal truth. It is evidence that the result is not just an execution accident.
-
-## 5. Counterexample Search
-
-WhiteBox treats counterexamples as product assets.
-
-A detector should be challenged with cases that could invalidate, narrow, or reverse the signal.
-
-Counterexample search asks:
-
-- When does the signal disappear?
-- When does the opposite conclusion appear?
-- Which variable caused the change?
-- Is the detector measuring the intended mechanism?
-- Is the boundary economically meaningful?
-
-## 6. Boundary Classification
-
-A detector should describe its boundary.
-
-Possible boundary outcomes:
-
-- robust signal
-- narrow signal
-- mechanism evidence only
-- insufficient evidence
-- counterexample found
-- market-assumption dependent
-- expert-review required
-- not suitable for product promotion
-
-This protects users from treating early research as client-ready advice.
-
-## 7. Expert Review
-
-Human expert review is required before product promotion.
-
-Experts should review:
-
-- financial interpretation
-- local market realism
-- insurance and planning suitability
-- advisor communication risk
-- whether the detector could mislead a household
-
-The review should not silently rewrite the evidence. It should accept, reject, narrow, or request more tests.
-
-## 8. Promotion
-
-Detector promotion means a research signal is ready to become part of the product experience.
-
-Promotion requires:
-
-- clear hypothesis
-- controlled evidence
-- replication
-- counterexample review
-- boundary notes
-- no-mutation audit
-- expert review
-- public-safe documentation if published
-
-Until then, detector results remain research output.
+Detector work is experimental. Public documents describe research direction only. They do not disclose private implementation details or claim production readiness.

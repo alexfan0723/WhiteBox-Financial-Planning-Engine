@@ -1,82 +1,43 @@
 # Public Architecture
 
-WhiteBox separates financial planning into governed layers. Each layer has a distinct responsibility and a clear boundary.
+WhiteBox separates financial planning into a small number of public-facing concepts. This document is intentionally high level and does not describe private implementation details.
 
-## 1. Intake and Fact Structuring
+## 1. Financial State
 
-This layer converts advisor/client information into structured financial facts.
+WhiteBox begins with a household financial state: income, expenses, assets, liabilities, insurance context, family structure, and known commitments.
 
-It covers household members, income, expenses, assets, liabilities, insurance, goals, and known commitments. A fact is not treated as formal until it is confirmed, traceable, and assigned to the correct planning category.
+The key principle is that a plan should distinguish confirmed facts from hypothetical assumptions.
 
-## 2. Current Financial State Engine
+## 2. Planner
 
-This layer computes the household's current financial position.
+The planner organizes goals, constraints, priorities, and tradeoffs before scenario analysis.
 
-It is responsible for:
+It asks questions such as:
 
-- household balance-sheet structure
-- cash-flow capacity
-- existing asset and liability treatment
-- protection and liquidity context
-- planning readiness signals
+- What is the household trying to change?
+- Which constraints matter?
+- Which assumptions are uncertain?
+- Which scenario should be tested?
+- What needs expert review?
 
-It does not generate recommendations by itself.
+## 3. Scenario Analysis
 
-## 3. Planner
+Scenario analysis explores controlled what-if cases, such as retirement timing, education funding, property decisions, liquidity stress, insurance planning, and family responsibility.
 
-The planner turns goals and constraints into structured planning tasks.
+The goal is not to produce a magical answer. The goal is to make assumptions, tradeoffs, and risk boundaries visible.
 
-It is responsible for:
+## 4. Detector Research
 
-- objective normalization
-- constraint handling
-- priority and conflict management
-- candidate planning paths
-- asking clarifying questions when required
+Detector research is an experimental layer for finding repeatable planning signals and boundary cases.
 
-The planner should own reasoning about what should be tested before the simulation engine runs.
+Detectors are inspired by expert cognition: experienced advisors often recognize patterns, exceptions, and anomalies before they can fully formalize them. WhiteBox studies whether these patterns can be made more structured, repeatable, and reviewable.
 
-## 4. Scenario Simulation Engine
+## 5. Advisor Explanation
 
-This layer runs controlled what-if analysis.
-
-It is responsible for:
-
-- retirement timing changes
-- education funding cases
-- property purchase or sale cases
-- insurance planning scenarios
-- liquidity stress cases
-- family responsibility cases
-- market and income shock analysis
-
-It does not reinterpret natural language or silently rewrite facts.
-
-## 5. Detector System
-
-The detector system searches for repeatable planning signals.
-
-A detector candidate must pass through:
-
-- evidence generation
-- replication
-- counterexample search
-- boundary review
-- human expert review
-- no-mutation checks
-
-Detector output remains research evidence until it is explicitly promoted.
-
-## 6. Report Layer
-
-The report layer converts verified model output into advisor/client-facing material.
-
-It explains:
+WhiteBox aims to support advisor-grade explanation:
 
 - what was calculated
 - what assumptions were used
-- what is formal versus exploratory
+- what remains exploratory
 - what remains uncertain
 - what the advisor should review
-
-It must not fabricate missing numbers or mutate calculation-layer results.
