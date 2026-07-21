@@ -1,10 +1,25 @@
-# WhiteBox Planning Engine
+# WhiteBox Financial Planning Engine
 
 WhiteBox is a financial planning intelligence system designed for the mainland China market.
 
 It combines deterministic financial modeling, planner-led scenario reasoning, detector-based evidence discovery, and advisor-grade reporting. The system is built with input from local financial planning, insurance, household balance-sheet, and retirement-planning practitioners.
 
 WhiteBox is not a chatbot that guesses financial answers. It is an auditable planning engine: every formal number should come from a governed model path, every recommendation should be traceable to structured facts and assumptions, and every exploratory result should stay clearly separated from formal planning output.
+
+## Problem
+
+Financial planning is usually trapped between two weak forms:
+
+- static calculators that cannot reason across goals, constraints, family structure, liquidity, insurance, property, and retirement timing
+- language-only assistants that can sound fluent while hiding assumptions, inventing numbers, or mixing exploratory output with formal advice
+
+WhiteBox is designed for the middle ground: structured reasoning with auditable calculations.
+
+## Why WhiteBox
+
+WhiteBox treats financial planning as a governed model problem. The system separates confirmed facts, hypothetical assumptions, planning objectives, simulation results, detector evidence, and advisor-facing explanations.
+
+This separation matters because a household plan is not a single answer. It is a chain of facts, assumptions, constraints, tradeoffs, and reviewable model results.
 
 ## What WhiteBox Builds
 
@@ -14,7 +29,7 @@ WhiteBox is not a chatbot that guesses financial answers. It is an auditable pla
 - A detector system that searches for repeatable planning patterns, counterexamples, and boundary conditions before productizing them.
 - A report layer that turns verified model output into advisor/client-facing planning material.
 
-## Frontier Direction
+## Core Innovation
 
 WhiteBox is focused on planner and detector innovation:
 
@@ -23,6 +38,12 @@ WhiteBox is focused on planner and detector innovation:
 - Explicit uncertainty handling: exploratory, preview, research, and formal outputs are separated by design.
 - Local market adaptation: tax, insurance, housing, family responsibility, liquidity, and retirement assumptions are designed for mainland China instead of copied from overseas planning templates.
 - Human expert loop: domain experts participate in product design, evidence review, and boundary decisions.
+
+## Market Focus
+
+WhiteBox is grounded in mainland China household planning.
+
+The system is designed around local realities such as property-heavy household balance sheets, family responsibility, education funding, insurance product context, retirement income uncertainty, liquidity constraints, and advisor-client review workflows.
 
 ## Financial Theory Foundation
 
@@ -38,6 +59,26 @@ WhiteBox modeling draws from:
 - scenario planning and decision science
 
 The system treats financial planning as a governed model problem, not a text-generation problem. Language models may help extract, organize, and explain information, but they must not invent formal financial numbers or decide official planning eligibility.
+
+Read more:
+
+- [Theory Foundation](docs/theory-foundation.md)
+- [Planner and Detectors](docs/planner-and-detectors.md)
+- [Detector Methodology](docs/detector-methodology.md)
+- [Mainland China Market Orientation](docs/mainland-china-market.md)
+
+## Roadmap
+
+Near-term public work:
+
+- refine public-safe architecture and terminology
+- publish planner objective schemas
+- publish detector evidence lifecycle schemas
+- prepare sanitized mainland China household examples
+- document formal versus research output boundaries
+- add validation tests for public schemas and examples
+
+Implementation code will be published only when it is public-safe, reviewed, and separated from private production systems.
 
 ## Public Repository Scope
 
