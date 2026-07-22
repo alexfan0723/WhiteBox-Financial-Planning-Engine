@@ -64,12 +64,19 @@ WhiteBox modeling draws from:
 
 The system treats financial planning as a governed model problem, not a text-generation problem. Language models may help extract, organize, and explain information, but they must not invent formal financial numbers or decide official planning eligibility.
 
-Read more:
+## Articles
+
+WhiteBox publishes public-safe bilingual notes on financial planning theory, planner-first reasoning, experimental detector research, and mainland China market context.
+
+- [Articles Index](docs/articles/README.md)
+- [Financial Planning Is Not One Answer, But an Auditable Reasoning Chain](docs/articles/auditable-reasoning-chain.md)
+- [中文：金融规划不是一个答案，而是一条可审计的推理链](docs/articles/auditable-reasoning-chain.zh-CN.md)
+
+## Foundation Docs
 
 - [Theory Foundation](docs/theory-foundation.md)
 - [Detector Methodology](docs/detector-methodology.md)
 - [Mainland China Market Orientation](docs/mainland-china-market.md)
-- [Article: Financial Planning Is Not One Answer, But an Auditable Reasoning Chain](docs/articles/auditable-reasoning-chain.md)
 - [Roadmap](ROADMAP.md)
 
 Simplified Chinese:

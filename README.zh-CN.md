@@ -64,12 +64,19 @@ WhiteBox 的建模参考：
 
 系统把金融规划视为受治理的模型问题，而不是文本生成问题。语言模型可以帮助提取、组织和解释信息，但不能生成正式财务数字，也不能决定正式规划资格。
 
-更多阅读：
+## 文章
+
+WhiteBox 会持续发布 public-safe 的中英双语文章，覆盖财务规划理论、planner-first reasoning、实验性 detector research，以及中国大陆市场语境。
+
+- [文章目录](docs/articles/README.zh-CN.md)
+- [金融规划不是一个答案，而是一条可审计的推理链](docs/articles/auditable-reasoning-chain.zh-CN.md)
+- [English: Financial Planning Is Not One Answer, But an Auditable Reasoning Chain](docs/articles/auditable-reasoning-chain.md)
+
+## 基础文档
 
 - [理论基础](docs/theory-foundation.zh-CN.md)
 - [Detector 方法论](docs/detector-methodology.zh-CN.md)
 - [中国大陆市场定位](docs/mainland-china-market.zh-CN.md)
-- [文章：金融规划不是一个答案，而是一条可审计的推理链](docs/articles/auditable-reasoning-chain.zh-CN.md)
 - [路线图](ROADMAP.zh-CN.md)
 
 ## 路线图
