@@ -70,7 +70,6 @@ WhiteBox publishes public-safe bilingual notes on financial planning theory, pla
 
 - [Articles Index](docs/articles/README.md)
 - [Financial Planning Is Not One Answer, But an Auditable Reasoning Chain](docs/articles/auditable-reasoning-chain.md)
-- [中文：金融规划不是一个答案，而是一条可审计的推理链](docs/articles/auditable-reasoning-chain.zh-CN.md)
 
 ## Foundation Docs
 
@@ -78,13 +77,6 @@ WhiteBox publishes public-safe bilingual notes on financial planning theory, pla
 - [Detector Methodology](docs/detector-methodology.md)
 - [Mainland China Market Orientation](docs/mainland-china-market.md)
 - [Roadmap](ROADMAP.md)
-
-Simplified Chinese:
-
-- [理论基础](docs/theory-foundation.zh-CN.md)
-- [Detector 方法论](docs/detector-methodology.zh-CN.md)
-- [中国大陆市场定位](docs/mainland-china-market.zh-CN.md)
-- [路线图](ROADMAP.zh-CN.md)
 
 ## Roadmap
 

@@ -70,7 +70,6 @@ WhiteBox 会持续发布 public-safe 的中英双语文章，覆盖财务规划�
 
 - [文章目录](docs/articles/README.zh-CN.md)
 - [金融规划不是一个答案，而是一条可审计的推理链](docs/articles/auditable-reasoning-chain.zh-CN.md)
-- [English: Financial Planning Is Not One Answer, But an Auditable Reasoning Chain](docs/articles/auditable-reasoning-chain.md)
 
 ## 基础文档
 
