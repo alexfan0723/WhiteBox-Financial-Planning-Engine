@@ -69,6 +69,7 @@ WhiteBox 的建模参考：
 - [理论基础](docs/theory-foundation.zh-CN.md)
 - [Detector 方法论](docs/detector-methodology.zh-CN.md)
 - [中国大陆市场定位](docs/mainland-china-market.zh-CN.md)
+- [文章：金融规划不是一个答案，而是一条可审计的推理链](docs/articles/auditable-reasoning-chain.zh-CN.md)
 - [路线图](ROADMAP.zh-CN.md)
 
 ## 路线图

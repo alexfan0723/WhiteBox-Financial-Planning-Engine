@@ -69,6 +69,7 @@ Read more:
 - [Theory Foundation](docs/theory-foundation.md)
 - [Detector Methodology](docs/detector-methodology.md)
 - [Mainland China Market Orientation](docs/mainland-china-market.md)
+- [Article: Financial Planning Is Not One Answer, But an Auditable Reasoning Chain](docs/articles/auditable-reasoning-chain.md)
 - [Roadmap](ROADMAP.md)
 
 Simplified Chinese:
