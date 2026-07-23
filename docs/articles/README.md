@@ -12,7 +12,7 @@ These articles are written for a broad professional audience. They explain key i
 
 ## Planner Research
 
-Coming soon.
+- [Before a Recommendation: Why Financial Planning Starts with Scenarios](scenarios-before-recommendation.md)
 
 ## Detector Research
 
