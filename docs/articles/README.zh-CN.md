@@ -12,7 +12,7 @@ WhiteBox 文章是面向公众的中英双语研究笔记，覆盖财务规划�
 
 ## Planner 研究
 
-待更新。
+- [推荐之前，先比较情景：为什么财务规划从情景开始](scenarios-before-recommendation.zh-CN.md)
 
 ## Detector 研究
 
