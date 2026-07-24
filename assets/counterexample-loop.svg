@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Counterexample loop before a planning conclusion</title>
+  <desc id="desc">A dark WhiteBox-style diagram showing an initial hypothesis tested through stress scenarios, counterexamples, boundary conditions, and expert review before a reviewable conclusion.</desc>
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#f2ece2" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#f2ece2" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .label { fill:#f4eee5; font-family:Arial,sans-serif; font-size:22px; letter-spacing:.6px; }
+      .sub { fill:#aaa7a1; font-family:Arial,sans-serif; font-size:15px; letter-spacing:.4px; }
+      .line { stroke:#f4eee5; stroke-opacity:.54; fill:none; stroke-width:2; }
+      .soft { stroke:#f4eee5; stroke-opacity:.18; fill:none; stroke-width:1; }
+      .panel { fill:#121214; stroke:#f4eee5; stroke-opacity:.42; }
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="#0c0c0e"/>
+  <path d="M0 720H1600 M0 640H1600 M0 560H1600" class="soft"/>
+  <text x="100" y="110" class="label" font-size="34">COUNTEREXAMPLES BEFORE CONCLUSIONS</text>
+  <text x="102" y="145" class="sub">test assumptions, find boundary conditions, then invite expert review</text>
+
+  <g transform="translate(100 340)">
+    <rect width="260" height="124" rx="4" class="panel"/>
+    <circle cx="30" cy="43" r="8" fill="#ff9800"/>
+    <text x="56" y="48" class="label">INITIAL HYPOTHESIS</text>
+    <text x="28" y="84" class="sub">a planning view worth testing</text>
+  </g>
+
+  <path d="M360 402H470" class="line"/>
+  <circle cx="470" cy="402" r="11" fill="#ff9800"/>
+  <g transform="translate(500 276)">
+    <rect width="292" height="112" rx="4" class="panel"/>
+    <circle cx="30" cy="47" r="8" fill="#2878ff"/>
+    <text x="56" y="51" class="label">STRESS SCENARIOS</text>
+    <text x="28" y="86" class="sub">change one important condition</text>
+    <rect y="132" width="292" height="112" rx="4" class="panel"/>
+    <circle cx="30" cy="179" r="8" fill="#ff9800"/>
+    <text x="56" y="183" class="label">COUNTEREXAMPLES</text>
+    <text x="28" y="218" class="sub">look for a credible failure case</text>
+  </g>
+
+  <path d="M792 332C845 332 850 369 900 369 M792 464C845 464 850 435 900 435" class="line"/>
+  <circle cx="900" cy="402" r="15" fill="#0c0c0e" stroke="#f4eee5" stroke-width="2"/>
+  <path d="M915 402H980" class="line"/>
+  <g transform="translate(980 340)">
+    <rect width="270" height="124" rx="4" class="panel"/>
+    <circle cx="30" cy="43" r="8" fill="#f4eee5"/>
+    <text x="56" y="48" class="label">BOUNDARY CONDITIONS</text>
+    <text x="28" y="84" class="sub">state where the view is fragile</text>
+  </g>
+
+  <path d="M1250 402H1330" class="line"/>
+  <g transform="translate(1330 340)">
+    <rect width="180" height="124" rx="4" fill="#151518" stroke="#f4eee5" stroke-opacity=".72"/>
+    <text x="24" y="47" class="label">EXPERT</text>
+    <text x="24" y="74" class="label">REVIEW</text>
+    <text x="24" y="103" class="sub">interpret and challenge</text>
+  </g>
+  <path d="M1420 494C1420 615 315 615 315 494" class="soft"/>
+  <path d="M315 494V520" class="soft"/>
+  <text x="580" y="690" class="sub">A reviewable conclusion keeps its assumptions and limits visible.</text>
+  <path d="M100 790H1500" stroke="url(#fade)" stroke-width="2"/>
+  <circle cx="1070" cy="790" r="5" fill="#2878ff"/><circle cx="1120" cy="790" r="5" fill="#ff9800"/><circle cx="1170" cy="790" r="5" fill="#f4eee5"/>
+</svg>
