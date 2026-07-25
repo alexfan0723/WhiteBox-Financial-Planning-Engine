@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Household timing map</title>
+  <desc id="desc">A public-safe diagram showing assets, cash flow, time-bound commitments, and three review scenarios.</desc>
+  <rect width="1600" height="900" fill="#0c0d0f"/>
+  <g fill="none" stroke="#e9e3d7" stroke-opacity=".72" stroke-width="2">
+    <rect x="100" y="120" width="410" height="485" rx="4"/>
+    <rect x="610" y="120" width="390" height="485" rx="4"/>
+    <rect x="1100" y="120" width="400" height="485" rx="4"/>
+    <path d="M180 700H1420" stroke-opacity=".36"/>
+  </g>
+  <g fill="#f2ede4" font-family="Arial, sans-serif">
+    <text x="100" y="75" font-size="28" letter-spacing="4">WHITEBOX / FICTIONAL HOUSEHOLD CASE</text>
+    <text x="140" y="175" font-size="27">Assets</text>
+    <text x="650" y="175" font-size="27">Cash flow</text>
+    <text x="1140" y="175" font-size="27">Time</text>
+    <text x="140" y="550" font-size="19" fill="#bdb8ae">Value is not the same as availability</text>
+    <text x="650" y="550" font-size="19" fill="#bdb8ae">Monthly room to manoeuvre</text>
+    <text x="1140" y="550" font-size="19" fill="#bdb8ae">When responsibilities arrive</text>
+  </g>
+  <g fill="none" stroke="#e9e3d7" stroke-opacity=".62" stroke-width="2">
+    <path d="M140 230H460M140 320H460M140 410H460"/>
+    <path d="M650 230H960M650 320H960M650 410H960"/>
+    <path d="M1140 230H1460M1140 320H1460M1140 410H1460"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="21" fill="#e9e3d7">
+    <text x="165" y="275">Property</text><text x="165" y="365">Long-term investments</text><text x="165" y="455">Accessible resources</text>
+    <text x="675" y="275">Income</text><text x="675" y="365">Recurring commitments</text><text x="675" y="455">Contingency capacity</text>
+    <text x="1165" y="275">Education</text><text x="1165" y="365">Family support</text><text x="1165" y="455">Retirement</text>
+  </g>
+  <g stroke-width="4" fill="none">
+    <path d="M180 770C420 650 660 790 880 690S1250 735 1420 645" stroke="#e9e3d7"/>
+    <path d="M180 790C420 700 660 830 880 760S1250 800 1420 750" stroke="#2f79f5" stroke-dasharray="9 12"/>
+    <path d="M180 750C420 590 660 720 880 610S1250 660 1420 560" stroke="#f59e0b" stroke-dasharray="12 10"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="18">
+    <circle cx="180" cy="770" r="9" fill="#e9e3d7"/><text x="203" y="777" fill="#e9e3d7">Base</text>
+    <circle cx="180" cy="790" r="9" fill="#2f79f5"/><text x="203" y="797" fill="#2f79f5">Stress</text>
+    <circle cx="180" cy="750" r="9" fill="#f59e0b"/><text x="203" y="757" fill="#f59e0b">Recovery</text>
+  </g>
+  <g fill="#f59e0b"><circle cx="1190" cy="320" r="10"/><circle cx="880" cy="610" r="10"/></g>
+  <g fill="#2f79f5"><circle cx="350" cy="455" r="10"/><circle cx="1180" cy="735" r="10"/></g>
+</svg>

@@ -24,7 +24,7 @@ Coming soon.
 
 ## Fictional Examples
 
-Coming soon.
+- [When Assets Are Not Enough: A Fictional Household Case on Liquidity, Timing, and Trade-offs](when-assets-are-not-enough.md)
 
 ## Boundary
 
