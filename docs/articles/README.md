@@ -22,6 +22,10 @@ These articles are written for a broad professional audience. They explain key i
 
 Coming soon.
 
+## Policy Commentary
+
+- [Offshore Trust Tax: From Legal Title to Control and Benefit](offshore-trust-tax-principles.md)
+
 ## Fictional Examples
 
 - [When Assets Are Not Enough: A Fictional Household Case on Liquidity, Timing, and Trade-offs](when-assets-are-not-enough.md)
