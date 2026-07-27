@@ -20,7 +20,7 @@ These articles are written for a broad professional audience. They explain key i
 
 ## Mainland China Market
 
-Coming soon.
+- [A Household Is Not One Decision-Maker: Making Family Responsibility Explicit in Financial Planning](family-responsibility-is-a-planning-constraint.md)
 
 ## Fictional Examples
 

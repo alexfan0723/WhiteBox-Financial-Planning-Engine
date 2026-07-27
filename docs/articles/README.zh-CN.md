@@ -20,7 +20,7 @@ WhiteBox 文章是面向公众的中英双语研究笔记，覆盖财务规划�
 
 ## 中国大陆市场
 
-待更新。
+- [家庭不是单一决策者：在财务规划中明确家庭责任](family-responsibility-is-a-planning-constraint.zh-CN.md)
 
 ## 虚构案例
 

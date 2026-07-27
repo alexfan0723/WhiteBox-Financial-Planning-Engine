@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title description">
+  <title id="title">Family Responsibility Map</title>
+  <desc id="description">A public-safe planning diagram showing household responsibilities, resources, and timing.</desc>
+  <rect width="1600" height="900" fill="#0b0c0f"/>
+  <g fill="none" stroke="#d9d2c3" stroke-opacity=".58" stroke-width="2">
+    <path d="M800 366 L390 220 M800 366 L800 172 M800 366 L1210 220 M800 366 L485 520 M800 366 L1115 520"/>
+    <path d="M220 737 H1380"/>
+    <path d="M390 720 V770 M610 720 V770 M800 720 V770 M990 720 V770 M1210 720 V770" stroke-dasharray="5 9"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#f4efe5">
+    <text x="120" y="115" font-size="32" letter-spacing="4">WHITEBOX · PUBLIC RESEARCH</text>
+    <text x="120" y="165" font-size="54">Family Responsibility Map</text>
+    <text x="120" y="208" font-size="24" fill="#b8b2a8">Responsibilities, resources, and timing are reviewed together.</text>
+    <text x="800" y="358" font-size="34" text-anchor="middle">HOUSEHOLD</text>
+    <text x="390" y="213" font-size="27" text-anchor="middle">HOUSING</text>
+    <text x="800" y="165" font-size="27" text-anchor="middle">RETIREMENT</text>
+    <text x="1210" y="213" font-size="27" text-anchor="middle">CHILD EDUCATION</text>
+    <text x="485" y="555" font-size="27" text-anchor="middle">PARENT SUPPORT</text>
+    <text x="1115" y="555" font-size="27" text-anchor="middle">PROTECTION</text>
+    <text x="220" y="820" font-size="25" fill="#b8b2a8">NOW</text>
+    <text x="1380" y="820" font-size="25" text-anchor="end" fill="#b8b2a8">LONGER HORIZON</text>
+  </g>
+  <g>
+    <circle cx="800" cy="350" r="88" fill="#15181d" stroke="#f4efe5" stroke-width="3"/>
+    <circle cx="390" cy="220" r="16" fill="#f59e0b"/><circle cx="800" cy="172" r="16" fill="#3b82f6"/>
+    <circle cx="1210" cy="220" r="16" fill="#f59e0b"/><circle cx="485" cy="520" r="16" fill="#f59e0b"/>
+    <circle cx="1115" cy="520" r="16" fill="#3b82f6"/>
+    <circle cx="390" cy="737" r="10" fill="#f59e0b"/><circle cx="610" cy="737" r="10" fill="#f59e0b"/>
+    <circle cx="800" cy="737" r="10" fill="#3b82f6"/><circle cx="990" cy="737" r="10" fill="#3b82f6"/>
+    <circle cx="1210" cy="737" r="10" fill="#3b82f6"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="21">
+    <text x="120" y="865" fill="#f59e0b">Orange: near-term or binding responsibility</text>
+    <text x="820" y="865" fill="#3b82f6">Blue: longer-horizon or adjustable planning resource</text>
+  </g>
+</svg>
