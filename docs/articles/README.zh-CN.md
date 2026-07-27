@@ -22,6 +22,10 @@ WhiteBox 文章是面向公众的中英双语研究笔记，覆盖财务规划�
 
 待更新。
 
+## 政策评论
+
+- [离岸信托的税收法理：从“谁名下”到“谁控制、谁受益”](offshore-trust-tax-principles.zh-CN.md)
+
 ## 虚构案例
 
 - [资产很多，为什么仍要看现金流与时间：一个虚构家庭的规划案例](when-assets-are-not-enough.zh-CN.md)
