@@ -68,6 +68,7 @@ The system treats financial planning as a governed model problem, not a text-gen
 
 WhiteBox publishes public-safe bilingual notes on financial planning theory, planner-first reasoning, experimental detector research, and mainland China market context.
 
+- [Offshore Trust Tax: From Legal Title to Control and Benefit](docs/articles/offshore-trust-tax-principles.md)
 - [Before a Recommendation: Why Financial Planning Starts with Scenarios](docs/articles/scenarios-before-recommendation.md)
 - [Financial Planning Is Not One Answer, But an Auditable Reasoning Chain](docs/articles/auditable-reasoning-chain.md)
 - [Before a Conclusion: Why Financial Planning Needs Counterexamples](docs/articles/counterexamples-before-conclusions.md)
