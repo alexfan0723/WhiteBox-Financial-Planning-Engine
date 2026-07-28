@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Protection, Liquidity, and Commitment Map</title>
+  <desc id="desc">A public-safe WhiteBox diagram showing household responsibilities, insurance protection, usable liquidity, future commitments, and professional review.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#10141c"/>
+      <stop offset="0.55" stop-color="#171b24"/>
+      <stop offset="1" stop-color="#0d1118"/>
+    </linearGradient>
+    <filter id="soft" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g opacity="0.18" stroke="#f5efe2" stroke-width="1">
+    <path d="M80 110H1120M80 210H1120M80 310H1120M80 410H1120M80 510H1120"/>
+    <path d="M160 70V560M320 70V560M480 70V560M640 70V560M800 70V560M960 70V560"/>
+  </g>
+
+  <text x="80" y="86" fill="#f5efe2" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="700">Insurance in Household Planning</text>
+  <text x="80" y="121" fill="#b8c2d6" font-family="Inter, Arial, sans-serif" font-size="18">Separate protection, liquidity, and long-term commitments before recommendation.</text>
+
+  <g filter="url(#soft)">
+    <rect x="90" y="165" width="1020" height="92" rx="8" fill="#202633" stroke="#3a4357"/>
+    <text x="126" y="202" fill="#f5efe2" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Household Responsibilities</text>
+    <text x="126" y="232" fill="#b8c2d6" font-family="Inter, Arial, sans-serif" font-size="16">living costs · education · retirement · debt · family duty</text>
+  </g>
+
+  <g filter="url(#soft)">
+    <rect x="90" y="306" width="310" height="116" rx="8" fill="#241f19" stroke="#d9813a" stroke-width="2"/>
+    <text x="124" y="348" fill="#f5efe2" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Protection</text>
+    <text x="124" y="379" fill="#e4b07d" font-family="Inter, Arial, sans-serif" font-size="15">event-triggered coverage</text>
+
+    <rect x="445" y="306" width="310" height="116" rx="8" fill="#172534" stroke="#4aa3df" stroke-width="2"/>
+    <text x="479" y="348" fill="#f5efe2" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Usable Liquidity</text>
+    <text x="479" y="379" fill="#8ec9ee" font-family="Inter, Arial, sans-serif" font-size="15">evidence-backed access path</text>
+
+    <rect x="800" y="306" width="310" height="116" rx="8" fill="#222632" stroke="#f5efe2" stroke-opacity="0.5"/>
+    <text x="834" y="348" fill="#f5efe2" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Commitments</text>
+    <text x="834" y="379" fill="#b8c2d6" font-family="Inter, Arial, sans-serif" font-size="15">future premiums and obligations</text>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-width="3">
+    <path d="M245 257V306" stroke="#d9813a"/>
+    <path d="M600 257V306" stroke="#4aa3df"/>
+    <path d="M955 257V306" stroke="#f5efe2" stroke-opacity="0.55"/>
+  </g>
+
+  <g transform="translate(106 484)">
+    <path d="M0 0H988" stroke="#3a4357" stroke-width="4" stroke-linecap="round"/>
+    <g font-family="Inter, Arial, sans-serif" font-size="15" fill="#b8c2d6">
+      <circle cx="0" cy="0" r="7" fill="#d9813a"/>
+      <text x="18" y="5">policy facts</text>
+      <circle cx="250" cy="0" r="7" fill="#4aa3df"/>
+      <text x="268" y="5">cash-flow path</text>
+      <circle cx="520" cy="0" r="7" fill="#f5efe2"/>
+      <text x="538" y="5">stress testing</text>
+      <circle cx="820" cy="0" r="7" fill="#d9813a" opacity="0.9"/>
+      <text x="838" y="5">professional review</text>
+    </g>
+  </g>
+
+  <rect x="780" y="505" width="330" height="62" rx="8" fill="none" stroke="#d9813a" stroke-width="2" stroke-dasharray="7 7"/>
+  <text x="812" y="542" fill="#f5efe2" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">Review gap before advice</text>
+</svg>
