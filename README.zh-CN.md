@@ -68,6 +68,7 @@ WhiteBox 的建模参考：
 
 WhiteBox 会持续发布 public-safe 的中英双语文章，覆盖财务规划理论、planner-first reasoning、实验性 detector research，以及中国大陆市场语境。
 
+- [离岸信托的税收法理：从“谁名下”到“谁控制、谁受益”](docs/articles/offshore-trust-tax-principles.zh-CN.md)
 - [推荐之前，先比较情景：为什么财务规划从情景开始](docs/articles/scenarios-before-recommendation.zh-CN.md)
 - [金融规划不是一个答案，而是一条可审计的推理链](docs/articles/auditable-reasoning-chain.zh-CN.md)
 - [结论之前：为什么财务规划需要反例](docs/articles/counterexamples-before-conclusions.zh-CN.md)
