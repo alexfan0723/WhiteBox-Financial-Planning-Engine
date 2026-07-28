@@ -20,7 +20,7 @@ WhiteBox 文章是面向公众的中英双语研究笔记，覆盖财务规划�
 
 ## 中国大陆市场
 
-待更新。
+- [保险进入家庭规划：先看今天的账，再看未来的路](insurance-protection-liquidity.zh-CN.md)
 
 ## 政策评论
 
