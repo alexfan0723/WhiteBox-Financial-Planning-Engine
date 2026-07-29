@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">WhiteBox Constraint Compass</title>
+  <desc id="desc">A public-safe household planning diagram that separates facts, assumptions, constraints, priorities, and base versus stress scenarios.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0c0e"/>
+      <stop offset="1" stop-color="#15171b"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .eyebrow { font: 600 18px Arial, sans-serif; letter-spacing: 4px; fill: #f4eee4; }
+      .title { font: 600 54px Georgia, serif; fill: #f4eee4; }
+      .label { font: 600 15px Arial, sans-serif; letter-spacing: 1.8px; fill: #f4eee4; }
+      .body { font: 400 17px Arial, sans-serif; fill: #c9c4bd; }
+      .small { font: 400 14px Arial, sans-serif; fill: #9d9a95; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <g opacity="0.24" stroke="#77746f" stroke-width="1">
+    <path d="M80 128H1520M80 232H1520M80 336H1520M80 440H1520M80 544H1520M80 648H1520M80 752H1520"/>
+    <path d="M128 76V824M272 76V824M416 76V824M560 76V824M704 76V824M848 76V824M992 76V824M1136 76V824M1280 76V824M1424 76V824"/>
+  </g>
+
+  <text x="92" y="104" class="eyebrow">WHITEBOX · PUBLIC PLANNING NOTE</text>
+  <text x="92" y="170" class="title">Constraint Compass</text>
+  <text x="92" y="204" class="body">Before optimizing a choice, make the household's boundaries visible.</text>
+
+  <g transform="translate(92 286)">
+    <rect width="302" height="164" rx="5" fill="#121419" stroke="#6f6c66"/>
+    <circle cx="28" cy="30" r="7" fill="#ff9d00"/>
+    <text x="48" y="36" class="label">CONFIRMED FACTS</text>
+    <text x="28" y="78" class="body">Income · assets · debt</text>
+    <text x="28" y="108" class="body">Premiums · known expenses</text>
+    <text x="28" y="138" class="small">What the household can verify today</text>
+  </g>
+  <g transform="translate(92 476)">
+    <rect width="302" height="164" rx="5" fill="#121419" stroke="#6f6c66"/>
+    <circle cx="28" cy="30" r="7" fill="#2878ff"/>
+    <text x="48" y="36" class="label">ASSUMPTIONS</text>
+    <text x="28" y="78" class="body">Rent · sale value · income</text>
+    <text x="28" y="108" class="body">Care needs · education cost</text>
+    <text x="28" y="138" class="small">What must remain reviewable</text>
+  </g>
+
+  <g transform="translate(654 438)">
+    <circle r="224" fill="none" stroke="#ff9d00" stroke-width="2" stroke-dasharray="9 10" opacity="0.9"/>
+    <circle r="168" fill="none" stroke="#f4eee4" stroke-width="1.5" opacity="0.65"/>
+    <circle r="108" fill="#17191e" stroke="#2878ff" stroke-width="3"/>
+    <circle r="81" fill="none" stroke="#f4eee4" stroke-width="1" opacity="0.34"/>
+    <text x="0" y="-11" text-anchor="middle" class="label">HOUSEHOLD</text>
+    <text x="0" y="15" text-anchor="middle" class="label">PRIORITIES</text>
+    <text x="0" y="47" text-anchor="middle" class="small">goals and trade-offs</text>
+
+    <text x="0" y="-190" text-anchor="middle" class="label" fill="#ff9d00">CONSTRAINTS</text>
+    <text x="0" y="-143" text-anchor="middle" class="body">liquidity · timing · commitments</text>
+    <text x="-195" y="6" text-anchor="middle" class="small">essential spending</text>
+    <text x="195" y="6" text-anchor="middle" class="small">family responsibility</text>
+    <text x="0" y="178" text-anchor="middle" class="small">protection and resilience</text>
+  </g>
+
+  <path d="M882 359 C972 303, 1020 289, 1090 289" fill="none" stroke="#2878ff" stroke-width="3"/>
+  <path d="M882 517 C972 574, 1020 588, 1090 588" fill="none" stroke="#ff9d00" stroke-width="3"/>
+  <circle cx="882" cy="359" r="7" fill="#2878ff" filter="url(#glow)"/>
+  <circle cx="882" cy="517" r="7" fill="#ff9d00" filter="url(#glow)"/>
+
+  <g transform="translate(1090 218)">
+    <rect width="390" height="154" rx="5" fill="#121419" stroke="#2878ff"/>
+    <circle cx="27" cy="29" r="7" fill="#2878ff"/>
+    <text x="47" y="35" class="label">BASE PATH</text>
+    <text x="27" y="76" class="body">Income continues</text>
+    <text x="27" y="105" class="body">Rent starts on time</text>
+    <text x="27" y="134" class="small">Does the choice appear manageable?</text>
+  </g>
+  <g transform="translate(1090 512)">
+    <rect width="390" height="154" rx="5" fill="#121419" stroke="#ff9d00"/>
+    <circle cx="27" cy="29" r="7" fill="#ff9d00"/>
+    <text x="47" y="35" class="label">STRESS PATH</text>
+    <text x="27" y="76" class="body">Income pauses · costs rise</text>
+    <text x="27" y="105" class="body">Liquidity is needed earlier</text>
+    <text x="27" y="134" class="small">Which commitments still hold?</text>
+  </g>
+
+  <path d="M92 748H1480" stroke="#6f6c66"/>
+  <text x="92" y="795" class="body">Compare paths under disclosed assumptions. Keep professional review visible.</text>
+  <circle cx="92" cy="832" r="5" fill="#ff9d00"/><text x="108" y="837" class="small">constraints</text>
+  <circle cx="239" cy="832" r="5" fill="#2878ff"/><text x="255" y="837" class="small">scenarios</text>
+  <circle cx="381" cy="832" r="5" fill="#f4eee4"/><text x="397" y="837" class="small">reviewable facts</text>
+</svg>
