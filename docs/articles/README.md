@@ -13,6 +13,7 @@ These articles are written for a broad professional audience. They explain key i
 ## Planner Research
 
 - [Before a Recommendation: Why Financial Planning Starts with Scenarios](scenarios-before-recommendation.md)
+- [Before Optimizing: Make the Household's Constraints Explicit](constraints-before-optimization.md)
 
 ## Detector Research
 
