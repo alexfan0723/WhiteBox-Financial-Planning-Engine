@@ -13,6 +13,7 @@ These articles are written for a broad professional audience. They explain key i
 ## Planner Research
 
 - [Before a Recommendation: Why Financial Planning Starts with Scenarios](scenarios-before-recommendation.md)
+- [Before Optimizing: Make the Household's Constraints Explicit](constraints-before-optimization.md)
 
 ## Detector Research
 
@@ -20,7 +21,12 @@ These articles are written for a broad professional audience. They explain key i
 
 ## Mainland China Market
 
+- [Insurance in Household Planning: Read Today's Balance Sheet, Then Tomorrow's Paths](insurance-protection-liquidity.md)
 - [A Household Is Not One Decision-Maker: Making Family Responsibility Explicit in Financial Planning](family-responsibility-is-a-planning-constraint.md)
+
+## Policy Commentary
+
+- [Offshore Trust Tax: From Legal Title to Control and Benefit](offshore-trust-tax-principles.md)
 
 ## Fictional Examples
 
