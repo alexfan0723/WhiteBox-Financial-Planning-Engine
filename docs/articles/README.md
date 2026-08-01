@@ -18,6 +18,7 @@ These articles are written for a broad professional audience. They explain key i
 ## Detector Research
 
 - [Before a Conclusion: Why Financial Planning Needs Counterexamples](counterexamples-before-conclusions.md)
+- [Before a Signal: Check What the Plan Does Not Yet Know](before-a-signal.md)
 
 ## Mainland China Market
 
