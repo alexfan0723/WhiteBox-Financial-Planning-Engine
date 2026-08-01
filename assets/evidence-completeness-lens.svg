@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence Completeness Lens</title>
+  <desc id="desc">A WhiteBox diagram showing confirmed facts, assumptions, and validation items moving through expert review to a reviewable comparison.</desc>
+  <rect width="1600" height="900" fill="#10151b"/>
+  <g opacity="0.18" stroke="#83a8c9" stroke-width="1">
+    <path d="M80 150H1520M80 300H1520M80 450H1520M80 600H1520M80 750H1520"/>
+    <path d="M200 80V820M400 80V820M600 80V820M800 80V820M1000 80V820M1200 80V820M1400 80V820"/>
+  </g>
+  <text x="100" y="130" fill="#f1eadc" font-family="Georgia, serif" font-size="48" letter-spacing="1">EVIDENCE COMPLETENESS LENS</text>
+  <text x="102" y="172" fill="#b9c5cf" font-family="Arial, sans-serif" font-size="22">Make what is known, assumed, and still unverified visible before review.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="105" y="280" width="350" height="310" rx="24" fill="#17212a" stroke="#5fa7d1" stroke-width="3"/>
+    <circle cx="170" cy="350" r="25" fill="#5fa7d1"/>
+    <text x="215" y="358" fill="#f1eadc" font-size="31" font-weight="700">CONFIRMED FACTS</text>
+    <text x="150" y="430" fill="#cad6de" font-size="23">Current terms</text>
+    <text x="150" y="472" fill="#cad6de" font-size="23">Verified sources</text>
+    <text x="150" y="514" fill="#cad6de" font-size="23">Known commitments</text>
+
+    <rect x="555" y="280" width="350" height="310" rx="24" fill="#241d18" stroke="#ec8f45" stroke-width="3"/>
+    <circle cx="620" cy="350" r="25" fill="#ec8f45"/>
+    <text x="665" y="358" fill="#f1eadc" font-size="31" font-weight="700">ASSUMPTIONS</text>
+    <text x="600" y="430" fill="#e6d3c1" font-size="23">Scenario inputs</text>
+    <text x="600" y="472" fill="#e6d3c1" font-size="23">Marked uncertainty</text>
+    <text x="600" y="514" fill="#e6d3c1" font-size="23">Comparable paths</text>
+
+    <rect x="1005" y="280" width="350" height="310" rx="24" fill="#1e2228" stroke="#d7d1c5" stroke-width="3" stroke-dasharray="10 9"/>
+    <circle cx="1070" cy="350" r="25" fill="#d7d1c5"/>
+    <text x="1115" y="358" fill="#f1eadc" font-size="31" font-weight="700">VALIDATION</text>
+    <text x="1050" y="430" fill="#d8dcdf" font-size="23">Open conditions</text>
+    <text x="1050" y="472" fill="#d8dcdf" font-size="23">Questions to confirm</text>
+    <text x="1050" y="514" fill="#d8dcdf" font-size="23">Review targets</text>
+
+    <path d="M280 620C420 730 540 730 680 650" fill="none" stroke="#5fa7d1" stroke-width="4"/>
+    <path d="M730 620C820 735 900 735 980 650" fill="none" stroke="#ec8f45" stroke-width="4"/>
+    <path d="M1180 620C1080 730 1030 730 970 650" fill="none" stroke="#d7d1c5" stroke-width="4"/>
+    <circle cx="825" cy="675" r="110" fill="#151d25" stroke="#f1eadc" stroke-width="3"/>
+    <text x="825" y="662" fill="#f1eadc" font-size="26" font-weight="700" text-anchor="middle">EXPERT</text>
+    <text x="825" y="696" fill="#f1eadc" font-size="26" font-weight="700" text-anchor="middle">REVIEW</text>
+    <path d="M945 675H1190" stroke="#f1eadc" stroke-width="4"/>
+    <path d="M1190 675l-20-13v26z" fill="#f1eadc"/>
+    <text x="1215" y="667" fill="#f1eadc" font-size="25" font-weight="700">REVIEWABLE</text>
+    <text x="1215" y="702" fill="#b9c5cf" font-size="23">comparison, not automatic advice</text>
+  </g>
+</svg>
