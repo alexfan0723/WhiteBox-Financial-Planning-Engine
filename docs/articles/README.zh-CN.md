@@ -18,6 +18,7 @@ WhiteBox 文章是面向公众的中英双语研究笔记，覆盖财务规划�
 ## Detector 研究
 
 - [结论之前：为什么财务规划需要反例](counterexamples-before-conclusions.zh-CN.md)
+- [识别信号之前：先检查规划尚不知道什么](before-a-signal.zh-CN.md)
 
 ## 中国大陆市场
 

@@ -74,6 +74,7 @@ WhiteBox publishes public-safe bilingual notes on financial planning theory, pla
 - [Before a Recommendation: Why Financial Planning Starts with Scenarios](docs/articles/scenarios-before-recommendation.md)
 - [Financial Planning Is Not One Answer, But an Auditable Reasoning Chain](docs/articles/auditable-reasoning-chain.md)
 - [Before a Conclusion: Why Financial Planning Needs Counterexamples](docs/articles/counterexamples-before-conclusions.md)
+- [Before a Signal: Check What the Plan Does Not Yet Know](docs/articles/before-a-signal.md)
 - [When Assets Are Not Enough: A Fictional Household Case on Liquidity, Timing, and Trade-offs](docs/articles/when-assets-are-not-enough.md)
 
 See the full [Articles Index](docs/articles/README.md).
