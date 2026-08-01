@@ -74,6 +74,7 @@ WhiteBox 会持续发布 public-safe 的中英双语文章，覆盖财务规划�
 - [推荐之前，先比较情景：为什么财务规划从情景开始](docs/articles/scenarios-before-recommendation.zh-CN.md)
 - [金融规划不是一个答案，而是一条可审计的推理链](docs/articles/auditable-reasoning-chain.zh-CN.md)
 - [结论之前：为什么财务规划需要反例](docs/articles/counterexamples-before-conclusions.zh-CN.md)
+- [识别信号之前：先检查规划尚不知道什么](docs/articles/before-a-signal.zh-CN.md)
 - [资产很多，为什么仍要看现金流与时间：一个虚构家庭的规划案例](docs/articles/when-assets-are-not-enough.zh-CN.md)
 
 查看完整[文章目录](docs/articles/README.zh-CN.md)。
