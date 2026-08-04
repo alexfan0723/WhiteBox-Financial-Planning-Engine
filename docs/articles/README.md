@@ -9,6 +9,7 @@ These articles are written for a broad professional audience. They explain key i
 ## Planning Theory
 
 - [Financial Planning Is Not One Answer, But an Auditable Reasoning Chain](auditable-reasoning-chain.md)
+- [A Goal Is Not Funded by a Number Alone: Matching Money to Time](goals-need-time.md)
 
 ## Planner Research
 
