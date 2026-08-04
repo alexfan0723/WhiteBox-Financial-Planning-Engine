@@ -9,6 +9,7 @@ WhiteBox 文章是面向公众的中英双语研究笔记，覆盖财务规划�
 ## 规划理论
 
 - [金融规划不是一个答案，而是一条可审计的推理链](auditable-reasoning-chain.zh-CN.md)
+- [目标不是有了一个数字就算被满足：让资金与时间匹配](goals-need-time.zh-CN.md)
 
 ## Planner 研究
 
