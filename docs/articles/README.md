@@ -25,6 +25,7 @@ These articles are written for a broad professional audience. They explain key i
 
 - [Insurance in Household Planning: Read Today's Balance Sheet, Then Tomorrow's Paths](insurance-protection-liquidity.md)
 - [A Household Is Not One Decision-Maker: Making Family Responsibility Explicit in Financial Planning](family-responsibility-is-a-planning-constraint.md)
+- [A Home Is an Asset, Not a Spending Plan](property-is-not-spending-plan.md)
 
 ## Policy Commentary
 

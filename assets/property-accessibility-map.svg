@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Property Accessibility Map</title>
+  <desc id="desc">A dark analytical diagram showing a home asset connected to accessibility, timing, concentration, and cost review points.</desc>
+  <rect width="1600" height="900" fill="#101113"/>
+  <g fill="none" stroke="#e8e1d5" stroke-width="2" opacity="0.72">
+    <path d="M118 176h252v250H118z"/>
+    <path d="M95 176l149-112 149 112"/>
+    <path d="M176 426V278h136v148"/>
+    <path d="M605 164h760v470H605z"/>
+    <path d="M605 278h760M605 392h760M605 506h760" opacity="0.42"/>
+    <path d="M822 164v470M1094 164v470" opacity="0.42"/>
+    <path d="M370 300H605M822 300h272M1094 300h271"/>
+    <path d="M370 426h235M822 426h272M1094 426h271"/>
+    <path d="M370 552h235M822 552h272M1094 552h271"/>
+    <path d="M104 738h1262" opacity="0.4"/>
+  </g>
+  <g fill="#f3eee5" font-family="Georgia, 'Times New Roman', serif">
+    <text x="116" y="525" font-size="66">Property</text>
+    <text x="116" y="586" font-size="66">Accessibility Map</text>
+    <text x="116" y="646" font-family="Arial, sans-serif" font-size="28" letter-spacing="1">VALUE NEEDS TIME, CONDITIONS, AND PURPOSE</text>
+    <text x="650" y="225" font-family="Arial, sans-serif" font-size="24" letter-spacing="2">PROPERTY VALUE</text>
+    <text x="868" y="225" font-family="Arial, sans-serif" font-size="24" letter-spacing="2">HOUSEHOLD REVIEW</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="28" fill="#f3eee5">
+    <text x="650" y="350">Balance-sheet value</text>
+    <text x="868" y="350">Accessible when needed</text>
+    <text x="1140" y="350">Transaction timing</text>
+    <text x="650" y="464">Income and repayments</text>
+    <text x="868" y="464">Education and support</text>
+    <text x="1140" y="464">Concentration exposure</text>
+    <text x="650" y="578">Costs and taxes</text>
+    <text x="868" y="578">Stress scenarios</text>
+    <text x="1140" y="578">Expert review</text>
+  </g>
+  <g>
+    <circle cx="370" cy="300" r="12" fill="#f59a00"/>
+    <circle cx="605" cy="300" r="12" fill="#2d78ff"/>
+    <circle cx="822" cy="300" r="12" fill="#f59a00"/>
+    <circle cx="1094" cy="300" r="12" fill="#2d78ff"/>
+    <circle cx="1365" cy="300" r="12" fill="#f59a00"/>
+    <circle cx="605" cy="426" r="12" fill="#2d78ff"/>
+    <circle cx="822" cy="426" r="12" fill="#f59a00"/>
+    <circle cx="1094" cy="426" r="12" fill="#2d78ff"/>
+    <circle cx="1365" cy="426" r="12" fill="#f59a00"/>
+    <circle cx="605" cy="552" r="12" fill="#f59a00"/>
+    <circle cx="822" cy="552" r="12" fill="#2d78ff"/>
+    <circle cx="1094" cy="552" r="12" fill="#f59a00"/>
+    <circle cx="1365" cy="552" r="12" fill="#2d78ff"/>
+  </g>
+  <g fill="#5d5d5d">
+    <circle cx="130" cy="780" r="5"/><circle cx="168" cy="780" r="5"/><circle cx="206" cy="780" r="5"/><circle cx="244" cy="780" r="5"/><circle cx="282" cy="780" r="5"/>
+    <circle cx="320" cy="780" r="5"/><circle cx="358" cy="780" r="5"/><circle cx="396" cy="780" r="5"/><circle cx="434" cy="780" r="5"/><circle cx="472" cy="780" r="5"/>
+    <circle cx="510" cy="780" r="5"/><circle cx="548" cy="780" r="5"/><circle cx="586" cy="780" r="5"/><circle cx="624" cy="780" r="5"/><circle cx="662" cy="780" r="5"/>
+  </g>
+  <circle cx="700" cy="780" r="5" fill="#2d78ff"/><circle cx="738" cy="780" r="5" fill="#f59a00"/><circle cx="776" cy="780" r="5" fill="#2d78ff"/>
+</svg>

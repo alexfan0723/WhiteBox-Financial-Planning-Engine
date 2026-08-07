@@ -25,6 +25,7 @@ WhiteBox 文章是面向公众的中英双语研究笔记，覆盖财务规划�
 
 - [保险进入家庭规划：先看今天的账，再看未来的路](insurance-protection-liquidity.zh-CN.md)
 - [家庭不是单一决策者：在财务规划中明确家庭责任](family-responsibility-is-a-planning-constraint.zh-CN.md)
+- [房产是资产，不等于可支配现金](property-is-not-spending-plan.zh-CN.md)
 
 ## 政策评论
 
