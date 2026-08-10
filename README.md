@@ -72,6 +72,7 @@ WhiteBox publishes public-safe bilingual notes on financial planning theory, pla
 - [A Goal Is Not Funded by a Number Alone: Matching Money to Time](docs/articles/goals-need-time.md)
 - [A Home Is an Asset, Not a Spending Plan](docs/articles/property-is-not-spending-plan.md)
 - [Insurance in Household Planning: Read Today's Balance Sheet, Then Tomorrow's Paths](docs/articles/insurance-protection-liquidity.md)
+- [Insurance in Household Planning: Keep Three Questions Separate](docs/articles/insurance-protection-liquidity-commitments.md)
 - [Before Optimizing: Make the Household's Constraints Explicit](docs/articles/constraints-before-optimization.md)
 - [Before a Recommendation: Why Financial Planning Starts with Scenarios](docs/articles/scenarios-before-recommendation.md)
 - [Financial Planning Is Not One Answer, But an Auditable Reasoning Chain](docs/articles/auditable-reasoning-chain.md)
