@@ -71,6 +71,7 @@ WhiteBox publishes public-safe bilingual notes on financial planning theory, pla
 - [Offshore Trust Tax: From Legal Title to Control and Benefit](docs/articles/offshore-trust-tax-principles.md)
 - [A Goal Is Not Funded by a Number Alone: Matching Money to Time](docs/articles/goals-need-time.md)
 - [A Home Is an Asset, Not a Spending Plan](docs/articles/property-is-not-spending-plan.md)
+- [Debt Has a Timeline: Plan the Repayment Path, Not Just the Balance](docs/articles/debt-has-a-timeline.md)
 - [Insurance in Household Planning: Read Today's Balance Sheet, Then Tomorrow's Paths](docs/articles/insurance-protection-liquidity.md)
 - [Insurance in Household Planning: Keep Three Questions Separate](docs/articles/insurance-protection-liquidity-commitments.md)
 - [Before Optimizing: Make the Household's Constraints Explicit](docs/articles/constraints-before-optimization.md)
