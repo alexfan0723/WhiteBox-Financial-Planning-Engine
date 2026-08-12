@@ -71,6 +71,7 @@ WhiteBox 会持续发布 public-safe 的中英双语文章，覆盖财务规划�
 - [离岸信托的税收法理：从“谁名下”到“谁控制、谁受益”](docs/articles/offshore-trust-tax-principles.zh-CN.md)
 - [目标不是有了一个数字就算被满足：让资金与时间匹配](docs/articles/goals-need-time.zh-CN.md)
 - [房产是资产，不等于可支配现金](docs/articles/property-is-not-spending-plan.zh-CN.md)
+- [负债有时间表：规划偿还路径，而不只看余额](docs/articles/debt-has-a-timeline.zh-CN.md)
 - [保险进入家庭规划：先看今天的账，再看未来的路](docs/articles/insurance-protection-liquidity.zh-CN.md)
 - [家庭规划里的保险，三件事要分开谈](docs/articles/insurance-protection-liquidity-commitments.zh-CN.md)
 - [优化之前，先把家庭的约束说清楚](docs/articles/constraints-before-optimization.zh-CN.md)
