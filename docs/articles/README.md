@@ -40,3 +40,4 @@ These articles are written for a broad professional audience. They explain key i
 ## Boundary
 
 Articles in this directory are for public education and research discussion. They do not disclose private production code, customer data, deployment bindings, proprietary prompts, unreleased model internals, or internal evidence packages.
+- [From Expert Experience to Reviewable Questions: What a Planning Detector Can and Cannot Do](expert-experience-to-reviewable-questions.md)
