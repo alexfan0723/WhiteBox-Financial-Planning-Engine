@@ -115,3 +115,5 @@ Early public-facing repository. The first goal is to define clear public languag
 ## License
 
 All rights reserved unless a later license file explicitly states otherwise.
+
+- [From Expert Experience to Reviewable Questions: What a Planning Detector Can and Cannot Do](docs/articles/expert-experience-to-reviewable-questions.md)
