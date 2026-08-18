@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Cue, Question, and Review</title>
+  <desc id="desc">A dark WhiteBox diagram showing planning cues becoming reviewable questions, boundary conditions, and expert review.</desc>
+  <defs>
+    <style>
+      .heading { fill: #f1eadc; font-family: Georgia, serif; font-size: 48px; letter-spacing: 1px; }
+      .subheading { fill: #b9c5cf; font-family: Arial, sans-serif; font-size: 22px; }
+      .label { fill: #f1eadc; font-family: Arial, sans-serif; font-size: 27px; font-weight: 700; letter-spacing: .6px; }
+      .body { fill: #c8d1d6; font-family: Arial, sans-serif; font-size: 20px; }
+      .small { fill: #aeb9c1; font-family: Arial, sans-serif; font-size: 18px; }
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="#10151b"/>
+  <g opacity=".18" stroke="#83a8c9" stroke-width="1">
+    <path d="M80 160H1520M80 320H1520M80 480H1520M80 640H1520M80 800H1520"/>
+    <path d="M160 80V820M400 80V820M640 80V820M880 80V820M1120 80V820M1360 80V820"/>
+  </g>
+  <text x="100" y="126" class="heading">CUE  ·  QUESTION  ·  REVIEW</text>
+  <text x="102" y="170" class="subheading">Make the path from a recurring observation to expert judgment visible.</text>
+  <g>
+    <rect x="100" y="300" width="300" height="244" rx="18" fill="#17212a" stroke="#4f9bca" stroke-width="3"/>
+    <circle cx="160" cy="360" r="22" fill="#2878ff"/>
+    <text x="205" y="369" class="label">CUE</text>
+    <text x="145" y="432" class="body">A recurring pattern</text>
+    <text x="145" y="468" class="body">worth inspecting</text>
+    <text x="145" y="505" class="small">facts remain visible</text>
+
+    <rect x="510" y="300" width="300" height="244" rx="18" fill="#1a2027" stroke="#f1eadc" stroke-opacity=".72" stroke-width="3"/>
+    <circle cx="570" cy="360" r="22" fill="#f1eadc"/>
+    <text x="615" y="369" class="label">QUESTION</text>
+    <text x="555" y="432" class="body">What needs to be</text>
+    <text x="555" y="468" class="body">confirmed or tested?</text>
+    <text x="555" y="505" class="small">assumptions are named</text>
+
+    <rect x="920" y="300" width="300" height="244" rx="18" fill="#241d18" stroke="#ec8f45" stroke-width="3"/>
+    <circle cx="980" cy="360" r="22" fill="#ec8f45"/>
+    <text x="1025" y="369" class="label">BOUNDARY</text>
+    <text x="965" y="432" class="body">Where could this</text>
+    <text x="965" y="468" class="body">view stop applying?</text>
+    <text x="965" y="505" class="small">counterexamples matter</text>
+
+    <rect x="1330" y="300" width="170" height="244" rx="18" fill="#151d25" stroke="#f1eadc" stroke-width="3"/>
+    <circle cx="1382" cy="360" r="18" fill="#5fa7d1"/>
+    <text x="1360" y="422" class="label" font-size="23px">EXPERT</text>
+    <text x="1360" y="454" class="label" font-size="23px">REVIEW</text>
+    <text x="1360" y="505" class="small">interpret in context</text>
+  </g>
+  <g fill="none" stroke-width="4">
+    <path d="M400 422H485" stroke="#2878ff"/>
+    <path d="M810 422H895" stroke="#f1eadc"/>
+    <path d="M1220 422H1305" stroke="#ec8f45"/>
+  </g>
+  <g fill="#f1eadc">
+    <path d="M485 422l-18-12v24z"/>
+    <path d="M895 422l-18-12v24z"/>
+    <path d="M1305 422l-18-12v24z"/>
+  </g>
+  <path d="M245 634C515 730 1075 730 1415 634" fill="none" stroke="#f1eadc" stroke-opacity=".38" stroke-width="2" stroke-dasharray="9 11"/>
+  <text x="800" y="760" class="label" text-anchor="middle">A reviewable signal supports judgment. It does not make the decision.</text>
+  <g fill="#5d6b75">
+    <circle cx="105" cy="825" r="5"/><circle cx="145" cy="825" r="5"/><circle cx="185" cy="825" r="5"/><circle cx="225" cy="825" r="5"/>
+    <circle cx="265" cy="825" r="5"/><circle cx="305" cy="825" r="5"/><circle cx="345" cy="825" r="5"/><circle cx="385" cy="825" r="5"/>
+    <circle cx="425" cy="825" r="5"/><circle cx="465" cy="825" r="5"/><circle cx="505" cy="825" r="5"/><circle cx="545" cy="825" r="5"/>
+  </g>
+  <circle cx="185" cy="825" r="5" fill="#2878ff"/><circle cx="345" cy="825" r="5" fill="#ec8f45"/><circle cx="505" cy="825" r="5" fill="#f1eadc"/>
+</svg>
