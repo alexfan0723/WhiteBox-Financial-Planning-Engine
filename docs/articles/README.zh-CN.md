@@ -40,3 +40,4 @@ WhiteBox 文章是面向公众的中英双语研究笔记，覆盖财务规划�
 ## 边界
 
 本目录文章仅用于公开教育和研究讨论。文章不披露私有生产代码、客户数据、部署绑定、私有 prompt、未发布模型内部实现或内部证据包。
+- [从专家经验到可复核问题：规划 Detector 能做什么，不能做什么](expert-experience-to-reviewable-questions.zh-CN.md)
