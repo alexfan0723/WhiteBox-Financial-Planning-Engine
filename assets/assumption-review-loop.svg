@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Assumption review loop</title>
+  <desc id="desc">A public-safe diagram showing facts, assumptions, scenario comparison, review dates and event triggers, followed by expert review.</desc>
+  <rect width="1600" height="900" fill="#10151d"/>
+  <path d="M120 120H1480M120 780H1480" stroke="#405168" stroke-width="1" opacity=".55"/>
+  <g stroke="#34445a" stroke-width="1" opacity=".6">
+    <path d="M120 210H1480M120 330H1480M120 450H1480M120 570H1480M120 690H1480"/>
+    <path d="M200 120V780M400 120V780M600 120V780M800 120V780M1000 120V780M1200 120V780M1400 120V780"/>
+  </g>
+  <text x="120" y="185" fill="#f4ead7" font-family="Georgia, serif" font-size="50">ASSUMPTION REVIEW LOOP</text>
+  <text x="123" y="225" fill="#aebdca" font-family="Arial, sans-serif" font-size="23" letter-spacing="2">KEEP THE CONDITIONS OF A PLAN VISIBLE</text>
+  <g fill="none" stroke="#75a8d8" stroke-width="5" stroke-linecap="round">
+    <path d="M335 475 C430 360, 565 360, 650 440"/>
+    <path d="M790 440 C880 340, 1020 350, 1095 455"/>
+    <path d="M1160 540 C1080 660, 850 690, 710 610"/>
+    <path d="M585 600 C420 675, 260 610, 265 505"/>
+  </g>
+  <g fill="#10151d" stroke="#f4ead7" stroke-width="3">
+    <circle cx="280" cy="490" r="92"/>
+    <circle cx="690" cy="465" r="92"/>
+    <circle cx="1120" cy="500" r="92"/>
+    <circle cx="700" cy="650" r="92"/>
+  </g>
+  <g fill="#f4ead7" font-family="Arial, sans-serif" font-size="29" font-weight="700" text-anchor="middle">
+    <text x="280" y="481">FACTS</text><text x="280" y="519" font-size="21" font-weight="400">what is confirmed</text>
+    <text x="690" y="456">ASSUMPTIONS</text><text x="690" y="494" font-size="21" font-weight="400">source · horizon · scope</text>
+    <text x="1120" y="491">SCENARIOS</text><text x="1120" y="529" font-size="21" font-weight="400">compare conditions</text>
+    <text x="700" y="641">REVIEW</text><text x="700" y="679" font-size="21" font-weight="400">revisit priorities</text>
+  </g>
+  <g fill="#ef8f3d" font-family="Arial, sans-serif" font-size="24" font-weight="700">
+    <circle cx="885" cy="350" r="10"/><text x="908" y="358">REVIEW DATE</text>
+    <circle cx="1160" cy="665" r="10"/><text x="1183" y="673">CHANGE EVENT</text>
+  </g>
+  <path d="M1270 500H1455" stroke="#ef8f3d" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1455 500l-20-12v24z" fill="#ef8f3d"/>
+  <text x="1280" y="465" fill="#f4ead7" font-family="Arial, sans-serif" font-size="26" font-weight="700">EXPERT REVIEW</text>
+  <text x="1280" y="538" fill="#aebdca" font-family="Arial, sans-serif" font-size="20">decision boundary</text>
+  <text x="120" y="835" fill="#aebdca" font-family="Arial, sans-serif" font-size="19">PUBLIC RESEARCH DISCUSSION · NOT INDIVIDUAL FINANCIAL ADVICE</text>
+</svg>
