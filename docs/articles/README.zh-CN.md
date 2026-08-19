@@ -8,6 +8,7 @@ WhiteBox 文章是面向公众的中英双语研究笔记，覆盖财务规划�
 
 ## 规划理论
 
+- [规划是一项持续决策：假设、复核日期与变化触发条件](living-plan-review-loop.zh-CN.md)
 - [金融规划不是一个答案，而是一条可审计的推理链](auditable-reasoning-chain.zh-CN.md)
 - [目标不是有了一个数字就算被满足：让资金与时间匹配](goals-need-time.zh-CN.md)
 - [负债有时间表：规划偿还路径，而不只看余额](debt-has-a-timeline.zh-CN.md)
