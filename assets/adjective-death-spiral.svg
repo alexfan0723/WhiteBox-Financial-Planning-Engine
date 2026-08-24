@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Five semantic escalations from the same evidence</title>
+  <desc id="desc">A public-safe diagram. The blue evidence line stays flat while the orange claim-strength line rises from factual observation to action recommendation. Five stages show the unsupported meaning added by each rewrite.</desc>
+  <rect width="1600" height="900" fill="#10151d"/>
+  <g fill="none" stroke="#34445a" stroke-width="1" opacity=".58">
+    <path d="M100 150H1500M100 270H1500M100 390H1500M100 510H1500M100 630H1500M100 750H1500"/>
+    <path d="M160 110V790M420 110V790M680 110V790M940 110V790M1200 110V790M1460 110V790"/>
+  </g>
+
+  <g font-family="Arial, Segoe UI, sans-serif">
+    <text x="100" y="82" fill="#f4ead7" font-size="46" font-weight="500">ONE EVIDENCE SET · FIVE SEMANTIC ESCALATIONS</text>
+    <text x="103" y="120" fill="#aebdca" font-size="21" letter-spacing="1">THE EVIDENCE STAYS FIXED WHILE THE CLAIM MOVES FROM OBSERVATION TO ACTION</text>
+
+    <text x="100" y="204" fill="#75a8d8" font-size="22" font-weight="500">EVIDENCE</text>
+    <text x="1435" y="204" fill="#aebdca" font-size="18" text-anchor="end">THE SAME SCENARIO RESULTS AT EVERY STEP</text>
+    <path d="M205 198H1435" fill="none" stroke="#75a8d8" stroke-width="5" stroke-linecap="round"/>
+    <g fill="#75a8d8">
+      <circle cx="250" cy="198" r="9"/><circle cx="530" cy="198" r="9"/><circle cx="810" cy="198" r="9"/><circle cx="1090" cy="198" r="9"/><circle cx="1370" cy="198" r="9"/>
+    </g>
+
+    <text x="800" y="264" fill="#f4ead7" font-size="19" text-anchor="middle">AN UNTESTED WORD FROM ONE ROUND BECOMES AN ASSUMED FACT IN THE NEXT</text>
+    <path d="M270 285H1330" fill="none" stroke="#ef8f3d" stroke-width="3" stroke-linecap="round"/>
+    <path d="M1330 285l-18-10v20z" fill="#ef8f3d"/>
+
+    <g>
+      <g transform="translate(100 320)">
+        <rect width="260" height="310" fill="#151c25" stroke="#75a8d8" stroke-width="2"/>
+        <text x="22" y="42" fill="#75a8d8" font-size="19" font-weight="500">01 FACT</text>
+        <text x="22" y="82" fill="#f4ead7" font-size="19">LIQUID ASSETS</text>
+        <text x="22" y="109" fill="#f4ead7" font-size="19">REMAIN POSITIVE</text>
+        <path d="M22 132H238" stroke="#405168"/>
+        <text x="22" y="170" fill="#aebdca" font-size="16">BASIS</text>
+        <text x="22" y="205" fill="#f4ead7" font-size="18">DIRECT CALCULATION</text>
+        <text x="22" y="250" fill="#aebdca" font-size="16">ADDED MEANING</text>
+        <text x="22" y="285" fill="#75a8d8" font-size="19">NONE</text>
+      </g>
+
+      <g transform="translate(385 320)">
+        <rect width="260" height="310" fill="#151c25" stroke="#405168" stroke-width="2"/>
+        <text x="22" y="42" fill="#ef8f3d" font-size="19" font-weight="500">02 STABILITY</text>
+        <text x="22" y="82" fill="#f4ead7" font-size="18">LIQUID-ASSET POSITION</text>
+        <text x="22" y="109" fill="#f4ead7" font-size="18">IS RELATIVELY STABLE</text>
+        <path d="M22 132H238" stroke="#405168"/>
+        <text x="22" y="170" fill="#aebdca" font-size="16">ADDED JUDGMENT</text>
+        <text x="22" y="205" fill="#ef8f3d" font-size="18">VOLATILITY IS CONTROLLED</text>
+        <text x="22" y="245" fill="#ef8f3d" font-size="18">DUTIES REMAIN PAYABLE</text>
+        <text x="22" y="282" fill="#aebdca" font-size="15">NOT SHOWN BY THE RESULT</text>
+      </g>
+
+      <g transform="translate(670 320)">
+        <rect width="260" height="310" fill="#151c25" stroke="#405168" stroke-width="2"/>
+        <text x="22" y="42" fill="#ef8f3d" font-size="19" font-weight="500">03 RESILIENCE</text>
+        <text x="22" y="82" fill="#f4ead7" font-size="18">THE RETIREMENT PLAN</text>
+        <text x="22" y="109" fill="#f4ead7" font-size="18">IS RESILIENT</text>
+        <path d="M22 132H238" stroke="#405168"/>
+        <text x="22" y="170" fill="#aebdca" font-size="16">ADDED JUDGMENT</text>
+        <text x="22" y="205" fill="#ef8f3d" font-size="18">STRESS IS SURVIVABLE</text>
+        <text x="22" y="245" fill="#ef8f3d" font-size="18">RECOVERY IS POSSIBLE</text>
+        <text x="22" y="282" fill="#aebdca" font-size="15">NEEDS STRESS EVIDENCE</text>
+      </g>
+
+      <g transform="translate(955 320)">
+        <rect width="260" height="310" fill="#151c25" stroke="#405168" stroke-width="2"/>
+        <text x="22" y="42" fill="#ef8f3d" font-size="19" font-weight="500">04 SUITABILITY</text>
+        <text x="22" y="82" fill="#f4ead7" font-size="18">THE ARRANGEMENT</text>
+        <text x="22" y="109" fill="#f4ead7" font-size="18">SUITS THE HOUSEHOLD</text>
+        <path d="M22 132H238" stroke="#405168"/>
+        <text x="22" y="170" fill="#aebdca" font-size="16">ADDED JUDGMENT</text>
+        <text x="22" y="205" fill="#ef8f3d" font-size="18">PREFERENCES ARE MET</text>
+        <text x="22" y="245" fill="#ef8f3d" font-size="18">OTHER PATHS ARE WORSE</text>
+        <text x="22" y="282" fill="#aebdca" font-size="15">NEEDS COMPARISON</text>
+      </g>
+
+      <g transform="translate(1240 320)">
+        <rect width="260" height="310" fill="#1b1b1b" stroke="#ef8f3d" stroke-width="3"/>
+        <text x="22" y="42" fill="#ef8f3d" font-size="19" font-weight="500">05 ACTION</text>
+        <text x="22" y="82" fill="#f4ead7" font-size="18">RETIRE AS</text>
+        <text x="22" y="109" fill="#f4ead7" font-size="18">PLANNED</text>
+        <path d="M22 132H238" stroke="#5c4937"/>
+        <text x="22" y="170" fill="#aebdca" font-size="16">ADDED RESPONSIBILITY</text>
+        <text x="22" y="205" fill="#ef8f3d" font-size="18">INFLUENCES ACTION</text>
+        <text x="22" y="245" fill="#ef8f3d" font-size="18">CARRIES CONSEQUENCES</text>
+        <text x="22" y="282" fill="#aebdca" font-size="15">NEEDS MORE AUTHORITY</text>
+      </g>
+    </g>
+
+    <text x="100" y="694" fill="#ef8f3d" font-size="22" font-weight="500">CLAIM STRENGTH</text>
+    <path d="M235 754H515V735H800V716H1085V690H1370V660" fill="none" stroke="#ef8f3d" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+    <g fill="#ef8f3d">
+      <circle cx="235" cy="754" r="9"/><circle cx="515" cy="735" r="9"/><circle cx="800" cy="716" r="9"/><circle cx="1085" cy="690" r="9"/><circle cx="1370" cy="660" r="9"/>
+    </g>
+    <g fill="#aebdca" font-size="16" text-anchor="middle">
+      <text x="235" y="785">OBSERVATION</text><text x="515" y="766">DESCRIPTION</text><text x="800" y="747">DIAGNOSIS</text><text x="1085" y="721">SUITABILITY</text><text x="1370" y="691">ADVICE</text>
+    </g>
+
+    <g font-size="16">
+      <circle cx="108" cy="838" r="7" fill="#75a8d8"/><text x="126" y="844" fill="#aebdca">EXISTING EVIDENCE</text>
+      <circle cx="300" cy="838" r="7" fill="#ef8f3d"/><text x="318" y="844" fill="#aebdca">NEW SEMANTIC COMMITMENT</text>
+      <text x="1495" y="844" fill="#aebdca" text-anchor="end">PUBLIC RESEARCH ILLUSTRATION · NOT INDIVIDUAL FINANCIAL ADVICE</text>
+    </g>
+  </g>
+</svg>

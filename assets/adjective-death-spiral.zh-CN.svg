@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">同一组证据中的五次语义升级</title>
+  <desc id="desc">一张公共安全图示。蓝色证据线保持不变，橙色主张力度从事实观察逐步上升到行动建议。五个阶段分别显示每次改写新增但尚未获得新证据支持的含义。</desc>
+  <rect width="1600" height="900" fill="#10151d"/>
+  <g fill="none" stroke="#34445a" stroke-width="1" opacity=".58">
+    <path d="M100 150H1500M100 270H1500M100 390H1500M100 510H1500M100 630H1500M100 750H1500"/>
+    <path d="M160 110V790M420 110V790M680 110V790M940 110V790M1200 110V790M1460 110V790"/>
+  </g>
+
+  <g font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif">
+    <text x="100" y="82" fill="#f4ead7" font-size="46" font-weight="500">同一组证据，五次语义升级</text>
+    <text x="103" y="120" fill="#aebdca" font-size="21" letter-spacing="1">证据没有增加，主张力度却从观察走向行动</text>
+
+    <text x="100" y="204" fill="#75a8d8" font-size="22" font-weight="500">证据层</text>
+    <text x="1435" y="204" fill="#aebdca" font-size="18" text-anchor="end">始终为同一组情景结果</text>
+    <path d="M205 198H1435" fill="none" stroke="#75a8d8" stroke-width="5" stroke-linecap="round"/>
+    <g fill="#75a8d8">
+      <circle cx="250" cy="198" r="9"/><circle cx="530" cy="198" r="9"/><circle cx="810" cy="198" r="9"/><circle cx="1090" cy="198" r="9"/><circle cx="1370" cy="198" r="9"/>
+    </g>
+
+    <text x="800" y="264" fill="#f4ead7" font-size="19" text-anchor="middle">上一轮尚未验证的词，在下一轮里被当成已经成立的事实</text>
+    <path d="M270 285H1330" fill="none" stroke="#ef8f3d" stroke-width="3" stroke-linecap="round"/>
+    <path d="M1330 285l-18-10v20z" fill="#ef8f3d"/>
+
+    <g>
+      <g transform="translate(100 320)">
+        <rect width="260" height="310" fill="#151c25" stroke="#75a8d8" stroke-width="2"/>
+        <text x="22" y="42" fill="#75a8d8" font-size="20" font-weight="500">01 事实观察</text>
+        <text x="22" y="92" fill="#f4ead7" font-size="22">流动资产仍为正</text>
+        <path d="M22 118H238" stroke="#405168"/>
+        <text x="22" y="158" fill="#aebdca" font-size="17">依据</text>
+        <text x="22" y="190" fill="#f4ead7" font-size="18">直接来自计算</text>
+        <text x="22" y="240" fill="#aebdca" font-size="17">新增含义</text>
+        <text x="22" y="276" fill="#75a8d8" font-size="20">无</text>
+      </g>
+
+      <g transform="translate(385 320)">
+        <rect width="260" height="310" fill="#151c25" stroke="#405168" stroke-width="2"/>
+        <text x="22" y="42" fill="#ef8f3d" font-size="20" font-weight="500">02 稳定描述</text>
+        <text x="22" y="84" fill="#f4ead7" font-size="20">流动资产状况</text>
+        <text x="22" y="112" fill="#f4ead7" font-size="20">相对稳定</text>
+        <path d="M22 132H238" stroke="#405168"/>
+        <text x="22" y="170" fill="#aebdca" font-size="17">新增判断</text>
+        <text x="22" y="205" fill="#ef8f3d" font-size="19">波动可控</text>
+        <text x="22" y="245" fill="#ef8f3d" font-size="19">责任可持续</text>
+        <text x="22" y="282" fill="#aebdca" font-size="16">原结果尚未回答</text>
+      </g>
+
+      <g transform="translate(670 320)">
+        <rect width="260" height="310" fill="#151c25" stroke="#405168" stroke-width="2"/>
+        <text x="22" y="42" fill="#ef8f3d" font-size="20" font-weight="500">03 韧性诊断</text>
+        <text x="22" y="92" fill="#f4ead7" font-size="21">退休计划具有韧性</text>
+        <path d="M22 118H238" stroke="#405168"/>
+        <text x="22" y="158" fill="#aebdca" font-size="17">新增判断</text>
+        <text x="22" y="196" fill="#ef8f3d" font-size="19">压力损失可承受</text>
+        <text x="22" y="236" fill="#ef8f3d" font-size="19">家庭能够恢复</text>
+        <text x="22" y="282" fill="#aebdca" font-size="16">需要压力与恢复证据</text>
+      </g>
+
+      <g transform="translate(955 320)">
+        <rect width="260" height="310" fill="#151c25" stroke="#405168" stroke-width="2"/>
+        <text x="22" y="42" fill="#ef8f3d" font-size="20" font-weight="500">04 适用性判断</text>
+        <text x="22" y="84" fill="#f4ead7" font-size="20">当前退休安排</text>
+        <text x="22" y="112" fill="#f4ead7" font-size="20">较为适合家庭</text>
+        <path d="M22 132H238" stroke="#405168"/>
+        <text x="22" y="170" fill="#aebdca" font-size="17">新增判断</text>
+        <text x="22" y="205" fill="#ef8f3d" font-size="19">符合家庭偏好</text>
+        <text x="22" y="245" fill="#ef8f3d" font-size="19">优于其他路径</text>
+        <text x="22" y="282" fill="#aebdca" font-size="16">需要适用性比较</text>
+      </g>
+
+      <g transform="translate(1240 320)">
+        <rect width="260" height="310" fill="#1b1b1b" stroke="#ef8f3d" stroke-width="3"/>
+        <text x="22" y="42" fill="#ef8f3d" font-size="20" font-weight="500">05 行动建议</text>
+        <text x="22" y="92" fill="#f4ead7" font-size="21">建议按计划退休</text>
+        <path d="M22 118H238" stroke="#5c4937"/>
+        <text x="22" y="158" fill="#aebdca" font-size="17">新增责任</text>
+        <text x="22" y="196" fill="#ef8f3d" font-size="19">影响家庭行动</text>
+        <text x="22" y="236" fill="#ef8f3d" font-size="19">承担建议后果</text>
+        <text x="22" y="282" fill="#aebdca" font-size="16">需要更高证据与权限</text>
+      </g>
+    </g>
+
+    <text x="100" y="694" fill="#ef8f3d" font-size="22" font-weight="500">主张力度</text>
+    <path d="M235 754H515V735H800V716H1085V690H1370V660" fill="none" stroke="#ef8f3d" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+    <g fill="#ef8f3d">
+      <circle cx="235" cy="754" r="9"/><circle cx="515" cy="735" r="9"/><circle cx="800" cy="716" r="9"/><circle cx="1085" cy="690" r="9"/><circle cx="1370" cy="660" r="9"/>
+    </g>
+    <g fill="#aebdca" font-size="16" text-anchor="middle">
+      <text x="235" y="785">观察</text><text x="515" y="766">描述</text><text x="800" y="747">诊断</text><text x="1085" y="721">适用性</text><text x="1370" y="691">建议</text>
+    </g>
+
+    <g font-size="16">
+      <circle cx="108" cy="838" r="7" fill="#75a8d8"/><text x="126" y="844" fill="#aebdca">现有证据</text>
+      <circle cx="238" cy="838" r="7" fill="#ef8f3d"/><text x="256" y="844" fill="#aebdca">新增语义承诺</text>
+      <text x="1495" y="844" fill="#aebdca" text-anchor="end">公开研究示意 · 不构成个别化财务建议</text>
+    </g>
+  </g>
+</svg>
