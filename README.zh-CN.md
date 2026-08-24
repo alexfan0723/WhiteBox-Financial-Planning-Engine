@@ -68,6 +68,7 @@ WhiteBox 的建模参考：
 
 WhiteBox 会持续发布 public-safe 的中英双语文章，覆盖财务规划理论、planner-first reasoning、实验性 detector research，以及中国大陆市场语境。
 
+- [形容词的死亡螺旋](docs/articles/adjective-death-spiral.zh-CN.md)
 - [规划是一项持续决策：假设、复核日期与变化触发条件](docs/articles/living-plan-review-loop.zh-CN.md)
 - [离岸信托的税收法理：从“谁名下”到“谁控制、谁受益”](docs/articles/offshore-trust-tax-principles.zh-CN.md)
 - [目标不是有了一个数字就算被满足：让资金与时间匹配](docs/articles/goals-need-time.zh-CN.md)
