@@ -68,6 +68,7 @@ The system treats financial planning as a governed model problem, not a text-gen
 
 WhiteBox publishes public-safe bilingual notes on financial planning theory, planner-first reasoning, experimental detector research, and mainland China market context.
 
+- [A Model May Find New Insight. Why It Still Needs Boundaries for Professional Claims](docs/articles/evidence-entitlement-and-claim-strength.md)
 - [The Adjective Death Spiral](docs/articles/adjective-death-spiral.md)
 - [A Plan Is a Living Decision: Assumptions, Review Dates, and Change Triggers](docs/articles/living-plan-review-loop.md)
 - [Offshore Trust Tax: From Legal Title to Control and Benefit](docs/articles/offshore-trust-tax-principles.md)
