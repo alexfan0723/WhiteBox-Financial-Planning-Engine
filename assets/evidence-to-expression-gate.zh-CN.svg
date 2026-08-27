@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">从证据到表达的审查门</title>
+  <desc id="desc">一张公开安全的示意图。证据先经过复核，再决定语言可以从观察推进到解释、适配性判断或行动建议中的哪一层。</desc>
+  <rect width="1600" height="900" fill="#10151d"/>
+  <g fill="none" stroke="#34445a" stroke-width="1" opacity=".58">
+    <path d="M90 150H1510M90 285H1510M90 420H1510M90 555H1510M90 690H1510M90 825H1510"/>
+    <path d="M120 100V840M390 100V840M660 100V840M930 100V840M1200 100V840M1470 100V840"/>
+  </g>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, Arial, sans-serif">
+    <text x="90" y="78" fill="#f4ead7" font-size="46" font-weight="500">从证据到表达的审查门</text>
+    <text x="93" y="118" fill="#aebdca" font-size="21" letter-spacing="1">新见解可以进入复核 · 表达力度只能走到证据允许的位置</text>
+
+    <g transform="translate(90 205)">
+      <text x="0" y="0" fill="#75a8d8" font-size="22" font-weight="500">01 证据</text>
+      <rect x="0" y="28" width="340" height="420" rx="4" fill="#151c25" stroke="#75a8d8" stroke-width="2"/>
+      <text x="28" y="78" fill="#f4ead7" font-size="21">已确认事实</text>
+      <text x="28" y="112" fill="#aebdca" font-size="17">家庭资料明确记录了什么</text>
+      <path d="M28 142H312" stroke="#405168"/>
+      <text x="28" y="192" fill="#f4ead7" font-size="21">已说明假设</text>
+      <text x="28" y="226" fill="#aebdca" font-size="17">当前情景固定了什么</text>
+      <path d="M28 256H312" stroke="#405168"/>
+      <text x="28" y="306" fill="#f4ead7" font-size="21">情景比较</text>
+      <text x="28" y="340" fill="#aebdca" font-size="17">改变一个因素后发生什么</text>
+      <rect x="28" y="372" width="284" height="48" rx="24" fill="#13283a" stroke="#75a8d8"/>
+      <text x="170" y="403" fill="#75a8d8" font-size="17" text-anchor="middle">可复核依据</text>
+    </g>
+
+    <path d="M455 435H610" stroke="#75a8d8" stroke-width="5" stroke-linecap="round"/>
+    <path d="M610 435l-18-11v22z" fill="#75a8d8"/>
+
+    <g transform="translate(630 205)">
+      <text x="0" y="0" fill="#f4ead7" font-size="22" font-weight="500">02 复核门</text>
+      <rect x="0" y="28" width="340" height="420" rx="4" fill="#171b20" stroke="#f4ead7" stroke-width="2"/>
+      <circle cx="170" cy="116" r="52" fill="#17293a" stroke="#75a8d8" stroke-width="3"/>
+      <path d="M145 116l17 18 36-40" fill="none" stroke="#75a8d8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="170" y="202" fill="#f4ead7" font-size="20" text-anchor="middle">依据能够复核吗</text>
+      <text x="170" y="246" fill="#f4ead7" font-size="20" text-anchor="middle">范围仍与证据相符吗</text>
+      <text x="170" y="290" fill="#f4ead7" font-size="20" text-anchor="middle">反证已经进入视野吗</text>
+      <path d="M42 326H298" stroke="#405168"/>
+      <text x="170" y="366" fill="#ef8f3d" font-size="18" text-anchor="middle">表达力度缺少支持</text>
+      <text x="170" y="396" fill="#aebdca" font-size="16" text-anchor="middle">收窄措辞</text>
+    </g>
+
+    <path d="M995 435H1150" stroke="#ef8f3d" stroke-width="5" stroke-linecap="round"/>
+    <path d="M1150 435l-18-11v22z" fill="#ef8f3d"/>
+
+    <g transform="translate(1170 205)">
+      <text x="0" y="0" fill="#ef8f3d" font-size="22" font-weight="500">03 表达</text>
+      <rect x="0" y="28" width="340" height="420" rx="4" fill="#151c25" stroke="#ef8f3d" stroke-width="2"/>
+      <g font-size="18">
+        <rect x="26" y="62" width="288" height="58" rx="4" fill="#17293a" stroke="#75a8d8"/>
+        <text x="48" y="98" fill="#f4ead7">观察</text>
+        <rect x="26" y="139" width="288" height="58" rx="4" fill="#1b252d" stroke="#6786a1"/>
+        <text x="48" y="175" fill="#f4ead7">条件性解释</text>
+        <rect x="26" y="216" width="288" height="58" rx="4" fill="#28231e" stroke="#b87942"/>
+        <text x="48" y="252" fill="#f4ead7">适配性判断</text>
+        <rect x="26" y="293" width="288" height="58" rx="4" fill="#302219" stroke="#ef8f3d"/>
+        <text x="48" y="329" fill="#f4ead7">行动建议</text>
+      </g>
+      <text x="170" y="396" fill="#ef8f3d" font-size="17" text-anchor="middle">更强表达需要更多支持</text>
+    </g>
+
+    <rect x="450" y="718" width="700" height="70" rx="35" fill="#151c25" stroke="#405168"/>
+    <text x="800" y="748" fill="#f4ead7" font-size="20" text-anchor="middle">主张强度不得超过证据所允许的表达范围</text>
+    <text x="800" y="777" fill="#aebdca" font-size="16" text-anchor="middle">新见解继续接受复核 · 专业承诺继续保持可审查</text>
+
+    <g font-size="16">
+      <circle cx="98" cy="850" r="7" fill="#75a8d8"/><text x="116" y="856" fill="#aebdca">证据与验证</text>
+      <circle cx="300" cy="850" r="7" fill="#ef8f3d"/><text x="318" y="856" fill="#aebdca">表达力度与责任</text>
+      <text x="1505" y="856" fill="#aebdca" text-anchor="end">公开研究示意 · 不构成个性化财务建议</text>
+    </g>
+  </g>
+</svg>
